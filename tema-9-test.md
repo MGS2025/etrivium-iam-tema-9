@@ -1,9 +1,9 @@
 # Tema 9 — Test de Autoevaluación
 
 > **Título**: Ley 31/1995 (LPRL): Delegados de Prevención. Comités de Seguridad y Salud. PRL en el Acuerdo-Convenio del Ayuntamiento de Madrid. Representación de los empleados públicos.
-> **Formato**: 150 preguntas tipo test A/B/C (formato oficial oposición) + 20 preguntas en formato pedagógico con explicación y referencia al articulado.
+> **Formato**: 165 preguntas tipo test A/B/C (formato oficial oposición) + 20 preguntas en formato pedagógico con explicación y referencia al articulado.
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Pendiente validación
+> **Versión**: 1.1 — Pendiente validación (165 preguntas; +15 de ampliación)
 > **Fecha**: 2026-06-25
 > **Fuentes**: ver `tema-9-fuentes.md`
 
@@ -18,7 +18,7 @@
 
 ---
 
-## BANCO DE 150 PREGUNTAS — FORMATO EXAMEN
+## BANCO DE 165 PREGUNTAS — FORMATO EXAMEN
 
 ### Bloque 1 — La LPRL: marco, objeto, ámbito y fundamento
 
@@ -943,6 +943,98 @@
     - b) Que la PRL no afecta a las Administraciones Públicas.
     - c) Que el Comité de Seguridad y Salud sustituye a la negociación colectiva.
     - **Respuesta: a** · *LPRL; TREBEP; AC1922*
+
+### Bloque 13 — Ampliación: principios, servicios de prevención y Capítulo IX (detalle)
+
+151. ¿Cuántos principios de la acción preventiva enumera el art. 15.1 LPRL?
+    - a) Siete.
+    - b) Nueve.
+    - c) Doce.
+    - **Respuesta: b** · *LPRL, art. 15.1*
+
+152. Según el orden del art. 15.1 LPRL, ¿qué principio precede inmediatamente a "anteponer la protección colectiva a la individual"?
+    - a) Planificar la prevención.
+    - b) Evitar los riesgos.
+    - c) Combatir los riesgos en su origen.
+    - **Respuesta: a** · *LPRL, art. 15.1 (g antes de h)*
+
+153. La vigilancia de la salud del trabajador (art. 22 LPRL) es, como regla general:
+    - a) Obligatoria en todo caso.
+    - b) Voluntaria, salvo los supuestos tasados en que es obligatoria.
+    - c) Decidida libremente por el empresario.
+    - **Respuesta: b** · *LPRL, art. 22*
+
+154. Respecto de los resultados de la vigilancia de la salud, al empresario se le comunica:
+    - a) El diagnóstico médico completo.
+    - b) Únicamente las conclusiones de aptitud para el desempeño del puesto.
+    - c) El historial clínico del trabajador.
+    - **Respuesta: b** · *LPRL, art. 22.4*
+
+155. El servicio de prevención propio es obligatorio, entre otros casos, en empresas de:
+    - a) Más de 500 trabajadores.
+    - b) Más de 50 trabajadores.
+    - c) Más de 250 trabajadores en todo caso.
+    - **Respuesta: a** · *RSP, art. 14*
+
+156. ¿En qué supuesto puede el empresario asumir personalmente la actividad preventiva?
+    - a) En empresas de hasta 10 trabajadores (o hasta 25 con un único centro), actividad no peligrosa y presencia habitual en el centro.
+    - b) En cualquier empresa, sin límite de plantilla.
+    - c) Solo en empresas de más de 500 trabajadores.
+    - **Respuesta: a** · *RSP, art. 11*
+
+157. La vigilancia de la salud no puede ser asumida personalmente por el empresario porque:
+    - a) Es competencia exclusiva de la Inspección de Trabajo.
+    - b) Requiere personal sanitario (especialidad de Medicina del Trabajo).
+    - c) La realizan siempre los Delegados de Prevención.
+    - **Respuesta: b** · *RSP, art. 11; LPRL, art. 22*
+
+158. ¿Cuáles son las cuatro especialidades o disciplinas preventivas del art. 34 RD 39/1997?
+    - a) Seguridad, Higiene Industrial, Ergonomía y Psicosociología Aplicada y Medicina del Trabajo.
+    - b) Seguridad, Calidad, Medio Ambiente y Recursos Humanos.
+    - c) Prevención, Inspección, Auditoría y Formación.
+    - **Respuesta: a** · *RSP, art. 34*
+
+159. El sistema de prevención del Ayuntamiento de Madrid se somete a auditoría o evaluación:
+    - a) Cada 4 años (cada 2 en actividades especialmente peligrosas).
+    - b) Cada 10 años.
+    - c) Solo cuando lo pida un Delegado de Prevención.
+    - **Respuesta: a** · *AC1922, art. 46*
+
+160. Según el art. 47 del Acuerdo-Convenio, la financiación de la prevención se articula mediante:
+    - a) Una partida única gestionada por el Comité de Seguridad y Salud.
+    - b) Un Fondo económico dotado en cada ejercicio, planificando cada Área/Distrito/OOAA a cargo de sus presupuestos.
+    - c) Aportaciones voluntarias de los empleados.
+    - **Respuesta: b** · *AC1922, art. 47*
+
+161. En materia de protección de la maternidad (art. 49 AC), si no es posible adaptar las condiciones, tiempo o turno de trabajo, procede:
+    - a) La extinción del contrato.
+    - b) El cambio temporal de funciones, previo informe del Servicio de Prevención.
+    - c) No adoptar ninguna medida hasta el parto.
+    - **Respuesta: b** · *AC1922, art. 49*
+
+162. Cuando la adscripción a un nuevo puesto por motivos de salud tiene carácter definitivo, el empleado municipal debe permanecer en él:
+    - a) Seis meses.
+    - b) Dos años.
+    - c) Cinco años.
+    - **Respuesta: b** · *AC1922, art. 49.2*
+
+163. Los Planes de Autoprotección del Ayuntamiento (art. 51 AC), en cumplimiento del art. 20 LPRL, deben comprobarse:
+    - a) Al menos una vez al año.
+    - b) Cada cinco años.
+    - c) Solo cuando se produzca un siniestro.
+    - **Respuesta: a** · *AC1922, art. 51; LPRL, art. 20*
+
+164. En el Ayuntamiento de Madrid, los Delegados de Prevención (art. 48.4 AC):
+    - a) Se designan necesariamente solo entre los miembros de Juntas de Personal y Comités de Empresa.
+    - b) No se designan necesariamente entre los representantes del personal: también pueden designarlos las organizaciones sindicales con presencia en los órganos de representación.
+    - c) Los elige directamente toda la plantilla.
+    - **Respuesta: b** · *AC1922, art. 48.4*
+
+165. La formación básica de los Delegados de Prevención del Ayuntamiento tenderá progresivamente a alcanzar:
+    - a) 20 horas.
+    - b) 60 horas.
+    - c) 200 horas.
+    - **Respuesta: b** · *AC1922, art. 48.6*
 
 ---
 

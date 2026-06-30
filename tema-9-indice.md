@@ -4,7 +4,7 @@
 >
 > **Bloque**: Parte I — Administrativo/Jurídico
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Generación inicial (datos del Acuerdo-Convenio verificados)
+> **Versión**: 1.1 — Ampliación de profundidad (derechos/deberes, principios art. 15, servicios de prevención, Capítulo IX desarrollado)
 > **Fecha**: 2026-06-25
 
 ---
@@ -97,4 +97,4 @@
 4. **Servicios de prevención** (sección 7) — las cuatro/cinco modalidades, a nivel de referencia.
 5. **PRL en el Acuerdo-Convenio** (sección 8) — los datos del Ayuntamiento de Madrid: 83 delegados (IAM 6), Comité único 15+15, crédito de 40 h, Plan de PRL de 2020.
 6. **Representación de los empleados públicos** (secciones 9-11) — TREBEP (Delegados/Juntas de Personal, art. 39), garantías y derecho de reunión (arts. 40-41 y 46) y su aplicación en el Ayuntamiento de Madrid.
-7. **Simulacro test** (150 preguntas) y **casos prácticos** aplicados al Ayuntamiento de Madrid (IAM).
+7. **Simulacro test** (165 preguntas) y **casos prácticos** aplicados al Ayuntamiento de Madrid (IAM).

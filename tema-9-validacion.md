@@ -52,9 +52,9 @@
 - [ ] Ningún diagrama depende de CDN, fuentes externas ni scripts.
 - [ ] Verificado por render del `index.html` real (los 12 SVG juntos): 0 textos fuera de caja (CSS scoped).
 
-## 5. Banco de 150 preguntas
+## 5. Banco de 165 preguntas
 
-- [ ] Las 150 preguntas tienen 3 opciones y una única respuesta correcta verificable.
+- [ ] Las 165 preguntas tienen 3 opciones y una única respuesta correcta verificable.
 - [ ] La distribución A/B/C está equilibrada (~50/50/50) tras el balanceo automático.
 - [ ] No hay preguntas ambiguas.
 - [ ] La sección pedagógica de 20 preguntas incluye explicación y referencia.
@@ -91,7 +91,7 @@
 1. **Punto 5.3 del índice del cliente — "Comisión Paritaria de Seguridad y Salud"**: el texto del Acuerdo-Convenio **no contempla un órgano con ese nombre específico**. El órgano real de participación en PRL es el **Comité de Seguridad y Salud único y paritario (15+15)** del art. 48, y el seguimiento general del Acuerdo-Convenio corresponde a la **Comisión de Seguimiento/Paritaria del propio Acuerdo-Convenio** (no específica de PRL). → Confirmar con Jesús / María si se mantiene el desarrollo del Comité único como órgano central (recomendado) o se desea un epígrafe específico sobre la Comisión de Seguimiento.
 2. **Datos del Acuerdo-Convenio verificados en fuente oficial** (art. 48, transparencia.madrid.es): 83 delegados, reparto por organismo (IAM 6), Comité único 15+15 y crédito de 40 h/mes. → Confirmar que el texto en vigor sigue siendo el 2019-2022 prorrogado en la fecha de la convocatoria.
 3. **Estructura del Capítulo IX** (arts. 45-52) tomada del sumario oficial. → Confirmar que el enunciado del examen no exige el detalle literal de los arts. 49-52 (adaptaciones, edificios, autoprotección, medio ambiente), aquí tratados como referencia.
-4. **150 preguntas + 20 pedagógicas + 6 casos + 12 diagramas + 8 pestañas**, replicando el formato de los Temas 1-8.
+4. **165 preguntas + 20 pedagógicas + 6 casos + 12 diagramas + 8 pestañas**, replicando el formato de los Temas 1-8.
 
 ### Puntos a vigilar (datos volátiles)
 

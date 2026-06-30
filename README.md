@@ -10,7 +10,7 @@ Material de estudio para la oposición **C1 — Técnico Auxiliar TIC del Ayunta
 - **`tema-9-indice.md`** — índice y datos clave.
 - **`tema-9-contenido.md`** — contenido teórico (11 secciones).
 - **`tema-9-diagramas.md`** — 12 diagramas SVG.
-- **`tema-9-test.md`** — 150 preguntas tipo examen + 20 pedagógicas.
+- **`tema-9-test.md`** — 165 preguntas tipo examen + 20 pedagógicas.
 - **`tema-9-caso-practico.md`** — 6 casos prácticos (Ayto de Madrid / IAM).
 - **`tema-9-fuentes.md`** — registro normativo + datos verificados en fuente oficial.
 - **`tema-9-validacion.md`** — checklist de validación (María / Ana).

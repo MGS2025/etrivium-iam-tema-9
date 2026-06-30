@@ -4,6 +4,33 @@
 
 ---
 
+## v1.1 — 2026-06-25 — Ampliación de profundidad (feedback de revisión)
+
+**Estado**: Pendiente de validación por María / Ana (IAM).
+
+Revisión que aborda el feedback recibido: *"al tema le falta profundizar en general"* y, en particular, en la **especial referencia al Acuerdo-Convenio en vigor** que exige el enunciado oficial.
+
+### Cambios aplicados
+
+1. **Derechos y deberes de los trabajadores (§2.1 y §2.3)** — desarrollados con detalle. Nuevo **catálogo de los 9 derechos específicos** (arts. 14-28 LPRL: información, consulta, formación, EPI, paralización art. 21, vigilancia de la salud art. 22, sensibles art. 25, maternidad art. 26, menores art. 27) en tabla, con datos clave sobre la **voluntariedad y confidencialidad** de la vigilancia de la salud. Las **6 obligaciones del trabajador** (art. 29) pasan de un párrafo a lista enumerada con la consecuencia disciplinaria (art. 29.3).
+2. **Los 9 principios de la acción preventiva (§2.2)** — reordenados en **tabla numerada 1-9 con la denominación literal del art. 15.1** (antes iban en un único párrafo), porque en examen se pregunta el orden exacto.
+3. **Servicios de prevención (§7)** — ampliado de forma sustancial: nueva columna **"cuándo es obligatoria cada modalidad"** (umbrales del RSP: SPP obligatorio >500 trabajadores, 250-500 con Anexo I; asunción personal ≤10/25; etc.), nuevo epígrafe **7.2 con las cuatro disciplinas preventivas** (Seguridad, Higiene Industrial, Ergonomía y Psicosociología, Medicina del Trabajo — art. 34 RSP), **niveles de formación** (básico/intermedio/superior) y **auditorías** (4 años / 2 en actividades peligrosas).
+4. **Capítulo IX del Acuerdo-Convenio (§8.2)** — el cambio mayor. Antes solo se listaban las **rúbricas** de los arts. 45-52; ahora cada artículo se **desarrolla con su contenido real**, verificado contra el **texto oficial** del Acuerdo-Convenio (BOAM 8307): salud laboral y derechos/deberes (art. 45, con la compensación por reconocimientos fuera de jornada y el acceso a instalaciones deportivas), servicio de prevención propio único y sus instrumentos de control (art. 46), **financiación** mediante Fondo económico anual (art. 47), representación (art. 48), **adaptación de puestos y protección de la maternidad** con permanencia de 2 años (art. 49), edificios y traslados (art. 50), **planes de autoprotección** (art. 51, prueba anual) y medio ambiente (art. 52).
+5. **§8.3** — añadido el matiz del **art. 48.4** (los Delegados de Prevención municipales **no se designan necesariamente** entre los representantes del personal; también por las organizaciones sindicales), la **Comisión Permanente** del Comité, la presidencia y secretaría, los asesores con voz sin voto y la formación tendente a **60 horas**.
+6. **Fuentes** — el **RD 39/1997 (Reglamento de los Servicios de Prevención, [RSP])** se promueve a Tier 1 (antes solo mención instrumental).
+7. **Test** — de 150 a **165 preguntas**: nuevo **Bloque 13 de ampliación** (15 preguntas) sobre los 9 principios, vigilancia de la salud, umbrales del SPP, las 4 disciplinas, auditorías y arts. 47/48.4/49/51/48.6 del Acuerdo-Convenio. Distribución re-equilibrada automáticamente (56/56/53).
+
+### Discrepancia con el índice del cliente (se mantiene anotada)
+
+El punto 5.3 del índice cita una *"Comisión Paritaria de Seguridad y Salud"*. El Acuerdo-Convenio **no contempla un órgano con ese nombre**: el órgano de participación en PRL es el **Comité de Seguridad y Salud único** (art. 48), que puede actuar a través de una **Comisión Permanente**. Pendiente de confirmar con Jesús / María.
+
+### Métrica
+
+- Contenido: **~4.130 → ~6.230 palabras** (+50%).
+- QA repetido: render de los 12 SVG sin colisión CSS, hunspell es_ES sin erratas reales, integridad del test (165 preguntas, 3 opciones, respuesta válida) correcta.
+
+---
+
 ## v1.0 — 2026-06-25 — Generación inicial completa
 
 **Estado**: Pendiente de validación por María / Ana (IAM).

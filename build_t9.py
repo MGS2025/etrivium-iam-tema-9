@@ -160,7 +160,7 @@ def diagramas_html(blocks):
 
 # ---------- Test ----------
 def parse_test(md):
-    seg = md.split("## BANCO DE 150 PREGUNTAS")[1].split("## PLANTILLA DE RESPUESTAS")[0]
+    seg = md.split("## BANCO DE 165 PREGUNTAS")[1].split("## PLANTILLA DE RESPUESTAS")[0]
     lines = seg.split("\n")
     qs = []
     cur = None
@@ -242,7 +242,7 @@ def build():
     <p class="subtitle">Ley 31/1995 (LPRL) · Delegados de Prevención · Comités de Seguridad y Salud · PRL en el Acuerdo-Convenio del Ayuntamiento de Madrid · Representación de los empleados públicos (TREBEP / ET)</p>
   </div>
   <div class="version-banner">
-    <span class="badge badge-v1">v1.0</span>
+    <span class="badge badge-v1">v1.1</span>
     <div><strong>Generación inicial · datos del Acuerdo-Convenio verificados en fuente oficial</strong><br>
     <small>Bloque I — Administrativo/Jurídico · C1 Técnico Auxiliar TIC · Ayuntamiento de Madrid · 2026-06-25</small></div>
   </div>
@@ -258,7 +258,7 @@ def build():
         <tr><td><strong>Índice</strong></td><td>Estructura del tema y conceptos clave por sección</td></tr>
         <tr><td><strong>Contenido</strong></td><td>11 secciones con texto, tablas y callouts de estudio</td></tr>
         <tr><td><strong>Diagramas</strong></td><td>12 esquemas visuales (SVG)</td></tr>
-        <tr><td><strong>Test</strong></td><td>150 preguntas tipo examen con corrección automática y penalización 1/3</td></tr>
+        <tr><td><strong>Test</strong></td><td>165 preguntas tipo examen con corrección automática y penalización 1/3</td></tr>
         <tr><td><strong>Casos</strong></td><td>6 casos prácticos aplicados al Ayuntamiento de Madrid (IAM)</td></tr>
         <tr><td><strong>Validación</strong></td><td>Checklist de revisión para María / Ana (IAM)</td></tr>
         <tr><td><strong>Fuentes</strong></td><td>Registro normativo, datos verificados y normas de citación</td></tr>
@@ -274,7 +274,7 @@ def build():
   <button class="tab-btn" data-tab="indice">Índice</button>
   <button class="tab-btn" data-tab="contenido">Contenido</button>
   <button class="tab-btn" data-tab="diagramas">Diagramas</button>
-  <button class="tab-btn" data-tab="test">Test <span class="version-badge">150</span></button>
+  <button class="tab-btn" data-tab="test">Test <span class="version-badge">165</span></button>
   <button class="tab-btn" data-tab="casos">Casos</button>
   <button class="tab-btn" data-tab="validacion">Validación</button>
   <button class="tab-btn" data-tab="fuentes">Fuentes</button>
@@ -283,7 +283,7 @@ def build():
     test_section = '''
 <section id="test" class="tab-content">
   <h1>Test de autoevaluación</h1>
-  <p class="subtitle">150 preguntas tipo examen (A/B/C). Penalización: cada fallo resta 1/3 de un acierto.</p>
+  <p class="subtitle">165 preguntas tipo examen (A/B/C). Penalización: cada fallo resta 1/3 de un acierto.</p>
   <div class="test-controls">
     <button class="btn btn-blue" id="btn-correct">Corregir test</button>
     <button class="btn btn-outline" id="btn-show-all">Mostrar todas las respuestas</button>

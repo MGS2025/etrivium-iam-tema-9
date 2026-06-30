@@ -4,7 +4,7 @@
 >
 > **Bloque**: Parte I — Administrativo/Jurídico
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Generación inicial (datos del Acuerdo-Convenio verificados en fuente oficial)
+> **Versión**: 1.1 — Ampliación de profundidad (Capítulo IX arts. 45-52 desarrollados; RD 39/1997 incorporado)
 > **Fecha**: 2026-06-25
 
 ---
@@ -31,6 +31,7 @@ El Tema 9 combina **tres corpus normativos** que conviene no mezclar:
 | [ET] | Real Decreto Legislativo 2/2015, de 23 de octubre, texto refundido de la Ley del Estatuto de los Trabajadores | BOE núm. 255 de 24/10/2015 | Representación del personal laboral: Delegados de Personal (art. 62), Comité de Empresa (arts. 63-66), garantías (art. 68) — al que remite el art. 37 LPRL |
 | [AC1922] | Acuerdo-Convenio sobre Condiciones de Trabajo Comunes al Personal Funcionario y Laboral del Ayuntamiento de Madrid y de sus Organismos Autónomos 2019-2022 (en vigor) | Aprobado por Acuerdo de 27/12/2018 de la Junta de Gobierno de la Ciudad de Madrid · BOAM núm. 8307 de 02/01/2019 | **Capítulo IX (arts. 45-52)**: salud laboral, servicio de prevención, recursos económicos, representación del personal municipal (Delegados de Prevención y Comité de Seguridad y Salud), adaptaciones de puesto, edificios, planes de autoprotección y medio ambiente |
 | [PLAN-PRL] | Plan de Prevención de Riesgos Laborales del Ayuntamiento de Madrid y sus Organismos Autónomos | Acuerdo de 26/11/2020 de la Junta de Gobierno de la Ciudad de Madrid · BOAM núm. 8783 de 04/12/2020 | Instrumento de integración de la prevención en el Ayuntamiento (estructura, responsabilidades, evaluación y planificación) |
+| [RSP] | Real Decreto 39/1997, de 17 de enero, Reglamento de los Servicios de Prevención | BOE núm. 27 de 31/01/1997 (versión consolidada) | Modalidades de organización preventiva y cuándo es obligatoria cada una (arts. 11-15), niveles de formación preventiva (básico/intermedio/superior), las cuatro especialidades o disciplinas preventivas (art. 34), auditorías del sistema de prevención |
 | [DM89391] | Directiva 89/391/CEE del Consejo, de 12 de junio de 1989 (Directiva Marco de seguridad y salud) | DOCE | Origen comunitario de la LPRL (transposición) |
 
 ### Esquema de referencia para el contenido
@@ -55,7 +56,6 @@ El Tema 9 combina **tres corpus normativos** que conviene no mezclar:
 ## Tier 3 — Descartadas / con cautela
 
 - **Doctrina académica y academias privadas**: no se usan como fuente de contenido (solo contraste).
-- **Reglamento de los Servicios de Prevención (RD 39/1997)**: se cita solo de forma instrumental al explicar las modalidades de organización preventiva; no es objeto central del enunciado.
 - **Datos volátiles del Acuerdo-Convenio** (número exacto de delegados por organismo, crédito horario, composición del Comité): se reproducen los del **texto 2019-2022 en vigor**, advirtiendo que un nuevo Acuerdo-Convenio podría modificarlos. Reverificar antes de cada convocatoria.
 
 ---
