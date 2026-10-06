@@ -275,22 +275,22 @@
   <rect x="240" y="18" width="220" height="46" rx="8" fill="#003d75"/>
   <text x="350" y="46" class="h">Organización de la prevención</text>
   <line x1="350" y1="64" x2="350" y2="78" stroke="#0055a0"/>
-  <line x1="95" y1="78" x2="605" y2="78" stroke="#0055a0"/>
+  <line x1="95" y1="78" x2="575" y2="78" stroke="#0055a0"/>
   <g>
     <line x1="95" y1="78" x2="95" y2="92" stroke="#0055a0"/>
     <rect x="20" y="92" width="150" height="62" rx="7" fill="#e8f0f8" stroke="#0055a0"/>
     <text x="95" y="116" class="t" style="font-weight:700">Empresario</text>
     <text x="95" y="134" class="s">asunción personal</text>
     <text x="95" y="148" class="s">(empresa pequeña)</text>
-    <line x1="222" y1="78" x2="222" y2="92" stroke="#0055a0"/>
+    <line x1="255" y1="78" x2="255" y2="92" stroke="#0055a0"/>
     <rect x="180" y="92" width="150" height="62" rx="7" fill="#e8f0f8" stroke="#0055a0"/>
     <text x="255" y="116" class="t" style="font-weight:700">Trabajador</text>
     <text x="255" y="134" class="s">designado</text>
-    <line x1="350" y1="78" x2="350" y2="92" stroke="#0055a0"/>
+    <line x1="415" y1="78" x2="415" y2="92" stroke="#0055a0"/>
     <rect x="340" y="92" width="150" height="62" rx="7" fill="#e8f5ee" stroke="#2d8659"/>
     <text x="415" y="116" class="t" style="font-weight:700">Servicio propio</text>
     <text x="415" y="134" class="s">unidad interna</text>
-    <line x1="478" y1="78" x2="478" y2="92" stroke="#0055a0"/>
+    <line x1="575" y1="78" x2="575" y2="92" stroke="#0055a0"/>
     <rect x="500" y="92" width="150" height="62" rx="7" fill="#e8f0f8" stroke="#0055a0"/>
     <text x="575" y="116" class="t" style="font-weight:700">Servicio ajeno</text>
     <text x="575" y="134" class="s">entidad externa</text>
