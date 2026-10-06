@@ -14,7 +14,7 @@
 - Cada pregunta tiene **3 opciones** (a, b, c). Solo una es correcta.
 - Penalización en examen real: respuesta incorrecta descuenta **1/3** del valor de una correcta.
 - Tiempo orientativo: **1 minuto por pregunta**.
-- Todas las preguntas son trazables a un artículo de la LPRL, el TREBEP, el ET o el Acuerdo-Convenio del Ayuntamiento de Madrid.
+- Todas las preguntas son trazables a un artículo de la CE, la LPRL, el RD 39/1997, el TREBEP, el ET o el Acuerdo-Convenio del Ayuntamiento de Madrid.
 
 ---
 
@@ -22,11 +22,11 @@
 
 ### Bloque 1 — La LPRL: marco, objeto, ámbito y fundamento
 
-1. La prevención de riesgos laborales se regula con carácter básico en:
-   - a) La Ley 31/1995, de 8 de noviembre.
-   - b) La Ley 39/2015, de 1 de octubre.
-   - c) La Ley 40/2015, de 1 de octubre.
-   - **Respuesta: a** · *LPRL*
+1. Según el art. 1 LPRL, la normativa sobre prevención de riesgos laborales está constituida por:
+   - a) La LPRL y sus reglamentos de desarrollo, con exclusión de las normas convencionales.
+   - b) Exclusivamente las normas con rango de ley.
+   - c) La LPRL, sus disposiciones de desarrollo o complementarias y cuantas otras normas, legales o convencionales, contengan prescripciones relativas a la adopción de medidas preventivas en el ámbito laboral o susceptibles de producirlas en dicho ámbito.
+   - **Respuesta: c** · *LPRL, art. 1*
 
 2. ¿Qué precepto constitucional sirve de fundamento a la prevención de riesgos laborales?
    - a) El artículo 35.2 de la Constitución.
@@ -34,11 +34,11 @@
    - c) El artículo 43 de la Constitución.
    - **Respuesta: b** · *CE, art. 40.2*
 
-3. La LPRL transpone al Derecho español, principalmente:
+3. Según su exposición de motivos, la LPRL transpone al Derecho español:
    - a) El Reglamento General de Protección de Datos.
-   - b) La Directiva 89/391/CEE (Directiva Marco de seguridad y salud).
+   - b) La Directiva 89/391/CEE, relativa a la aplicación de las medidas para promover la mejora de la seguridad y de la salud de los trabajadores en el trabajo.
    - c) La Directiva de servicios.
-   - **Respuesta: b** · *DM 89/391/CEE*
+   - **Respuesta: b** · *LPRL, exposición de motivos*
 
 4. El objeto de la LPRL es:
    - a) Sancionar a las empresas incumplidoras.
@@ -49,7 +49,7 @@
 5. La LPRL, respecto del personal al servicio de las Administraciones Públicas:
    - a) No se aplica en ningún caso.
    - b) Se aplica solo al personal laboral.
-   - c) Se aplica también a las relaciones administrativas o estatutarias, con las particularidades que procedan.
+   - c) Se aplica también a las relaciones de carácter administrativo o estatutario, con las peculiaridades que se contemplan en la propia Ley o en sus normas de desarrollo.
    - **Respuesta: c** · *LPRL, art. 3.1*
 
 6. Señale la afirmación correcta sobre el ámbito de la LPRL:
@@ -59,14 +59,14 @@
    - **Respuesta: b** · *LPRL, art. 3.1*
 
 7. La fecha de la Ley de Prevención de Riesgos Laborales es:
-   - a) 8 de noviembre de 1995.
+   - a) 17 de diciembre de 2003.
    - b) 2 de abril de 1985.
-   - c) 17 de diciembre de 2003.
-   - **Respuesta: a** · *LPRL*
+   - c) 8 de noviembre de 1995.
+   - **Respuesta: c** · *LPRL*
 
-8. ¿Cuál de estas actividades puede quedar excluida de la aplicación de la LPRL en lo que se oponga a sus peculiaridades?
-   - a) La actividad administrativa de gestión de personal.
-   - b) La policía, seguridad y resguardo aduanero.
+8. La LPRL no será de aplicación en aquellas actividades cuyas particularidades lo impidan en el ámbito de las funciones públicas de:
+   - a) La gestión administrativa de personal.
+   - b) Policía, seguridad y resguardo aduanero.
    - c) La actividad informática de un organismo autónomo.
    - **Respuesta: b** · *LPRL, art. 3.2*
 
@@ -76,11 +76,11 @@
    - c) Una obligación exclusiva de la Administración laboral.
    - **Respuesta: a** · *LPRL, art. 14.1*
 
-10. Además del fundamento constitucional y comunitario, el marco internacional de la PRL se vincula a:
-    - a) El Convenio 155 de la OIT.
-    - b) El Tratado de Schengen.
-    - c) El Convenio de Berna.
-    - **Respuesta: a** · *OIT*
+10. Según la exposición de motivos de la LPRL, los compromisos contraídos con la Organización Internacional del Trabajo que enriquecen el contenido de la Ley parten de la ratificación del:
+    - a) Convenio 87, sobre la libertad sindical.
+    - b) Convenio 98, sobre el derecho de sindicación y de negociación colectiva.
+    - c) Convenio 155, sobre seguridad y salud de los trabajadores y medio ambiente de trabajo.
+    - **Respuesta: c** · *LPRL, exposición de motivos*
 
 11. La información, la consulta y la participación de los trabajadores en materia preventiva:
     - a) Son facultativas para el empresario.
@@ -88,11 +88,11 @@
     - c) Solo proceden en el sector privado.
     - **Respuesta: b** · *LPRL, art. 14.1*
 
-12. La vigilancia del estado de salud de los trabajadores en función de los riesgos:
-    - a) Es siempre obligatoria para el trabajador sin excepción.
-    - b) Forma parte del derecho a la protección eficaz y, como regla, es voluntaria.
-    - c) Corresponde en exclusiva a la mutua, sin garantías de confidencialidad.
-    - **Respuesta: b** · *LPRL, arts. 14 y 22*
+12. El empresario garantizará a los trabajadores a su servicio la vigilancia periódica de su estado de salud:
+    - a) Solo a partir de los cincuenta años de edad.
+    - b) En función de los riesgos inherentes al trabajo.
+    - c) Solo cuando lo solicite la mutua.
+    - **Respuesta: b** · *LPRL, art. 22.1*
 
 ### Bloque 2 — Principios de la acción preventiva y obligaciones
 
@@ -102,16 +102,16 @@
     - c) Entregar equipos de protección individual.
     - **Respuesta: b** · *LPRL, art. 15.1.a)*
 
-14. Según el art. 15 LPRL, se evalúan:
+14. Según el art. 15.1.b) LPRL, se evalúan:
     - a) Todos los riesgos sin excepción.
-    - b) Los riesgos que no se hayan podido evitar.
+    - b) Los riesgos que no se puedan evitar.
     - c) Únicamente los riesgos graves.
     - **Respuesta: b** · *LPRL, art. 15.1.b)*
 
-15. En relación con la protección, el art. 15 LPRL ordena:
-    - a) Anteponer la protección individual a la colectiva.
-    - b) Anteponer la protección colectiva a la individual.
-    - c) Prescindir de la protección colectiva.
+15. En relación con la protección, el art. 15.1.h) LPRL ordena:
+    - a) Adoptar medidas que antepongan la protección individual a la colectiva.
+    - b) Adoptar medidas que antepongan la protección colectiva a la individual.
+    - c) Prescindir de la protección colectiva cuando se entreguen equipos de protección individual.
     - **Respuesta: b** · *LPRL, art. 15.1.h)*
 
 16. "Combatir los riesgos en su origen" es:
@@ -127,46 +127,46 @@
     - **Respuesta: a** · *LPRL, art. 15.1.d)*
 
 18. Sustituir lo peligroso por lo que entrañe poco o ningún peligro es:
-    - a) Un principio de la acción preventiva.
+    - a) Una facultad de la Inspección de Trabajo.
     - b) Una obligación exclusiva del trabajador.
-    - c) Una facultad de la Inspección de Trabajo.
-    - **Respuesta: a** · *LPRL, art. 15.1.f)*
+    - c) Un principio de la acción preventiva.
+    - **Respuesta: c** · *LPRL, art. 15.1.f)*
 
-19. Entre las obligaciones de los trabajadores en materia preventiva figura:
-    - a) Asumir el coste de los equipos de protección.
-    - b) Velar por su propia seguridad y por la de terceros afectados por su actividad.
-    - c) Sustituir al servicio de prevención.
-    - **Respuesta: b** · *LPRL, art. 29*
+19. Corresponde a cada trabajador velar, según sus posibilidades y mediante el cumplimiento de las medidas de prevención:
+    - a) Únicamente por su propia seguridad y salud en el trabajo.
+    - b) Por su propia seguridad y salud en el trabajo y por la de aquellas otras personas a las que pueda afectar su actividad profesional.
+    - c) Por la seguridad de las instalaciones, en sustitución del servicio de prevención.
+    - **Respuesta: b** · *LPRL, art. 29.1*
 
-20. El uso correcto de los medios y equipos de protección facilitados por el empresario:
+20. Utilizar correctamente los medios y equipos de protección facilitados por el empresario, de acuerdo con las instrucciones recibidas de éste:
     - a) Es una recomendación sin carácter obligatorio.
     - b) Es una obligación del trabajador.
     - c) Corresponde únicamente al Delegado de Prevención.
-    - **Respuesta: b** · *LPRL, art. 29.2*
+    - **Respuesta: b** · *LPRL, art. 29.2.2.º*
 
-21. Ante una situación de riesgo grave e inminente, el trabajador:
-    - a) Debe continuar trabajando en todo caso.
-    - b) Puede interrumpir su actividad y abandonar el lugar de trabajo.
-    - c) Necesita autorización judicial previa.
-    - **Respuesta: b** · *LPRL, art. 21*
+21. Cuando considere que su actividad entraña un riesgo grave e inminente para su vida o su salud, el trabajador:
+    - a) Debe continuar trabajando hasta recibir instrucciones del empresario.
+    - b) Tiene derecho a interrumpir su actividad y abandonar el lugar de trabajo, en caso necesario.
+    - c) Necesita autorización previa de la autoridad laboral.
+    - **Respuesta: b** · *LPRL, art. 21.2*
 
-22. El deber de información del empresario a los trabajadores sobre los riesgos:
-    - a) Solo existe en empresas de más de 250 trabajadores.
-    - b) Es una obligación derivada del derecho a la protección eficaz.
-    - c) Puede sustituirse por la entrega de un folleto comercial.
-    - **Respuesta: b** · *LPRL, art. 18*
+22. En las empresas que cuenten con representantes de los trabajadores, la información sobre los riesgos y las medidas de protección se facilitará por el empresario:
+    - a) Exclusivamente al Comité de Seguridad y Salud, que decidirá si la traslada.
+    - b) Solo por escrito al servicio de prevención.
+    - c) A los trabajadores a través de dichos representantes, sin perjuicio de informar directamente a cada trabajador de los riesgos específicos que afecten a su puesto de trabajo o función.
+    - **Respuesta: c** · *LPRL, art. 18.1*
 
-23. La formación de los trabajadores en materia preventiva debe:
-    - a) Impartirse, a ser posible, dentro de la jornada de trabajo.
-    - b) Costearla siempre el propio trabajador.
-    - c) Realizarse exclusivamente fuera de la jornada y sin retribución.
-    - **Respuesta: a** · *LPRL, art. 19*
+23. La formación de los trabajadores en materia preventiva deberá impartirse:
+    - a) Siempre que sea posible, dentro de la jornada de trabajo o, en su defecto, en otras horas pero con el descuento en aquélla del tiempo invertido.
+    - b) Siempre fuera de la jornada y a cargo del trabajador.
+    - c) Exclusivamente fuera de la jornada y sin retribución.
+    - **Respuesta: a** · *LPRL, art. 19.2*
 
-24. La evaluación de riesgos y la planificación de la actividad preventiva constituyen:
-    - a) Instrumentos esenciales de la gestión de la prevención.
-    - b) Trámites optativos para la empresa.
-    - c) Competencia exclusiva del Delegado de Prevención.
-    - **Respuesta: a** · *LPRL, art. 16*
+24. Según el art. 16.2 LPRL, los instrumentos esenciales para la gestión y aplicación del plan de prevención de riesgos son:
+    - a) La memoria anual y el presupuesto de prevención.
+    - b) La evaluación de riesgos laborales y la planificación de la actividad preventiva.
+    - c) La auditoría externa y el concierto con un servicio de prevención ajeno.
+    - **Respuesta: b** · *LPRL, art. 16.2*
 
 ### Bloque 3 — Delegados de Prevención: concepto y designación
 
@@ -176,13 +176,13 @@
     - c) Inspectores de Trabajo destinados a la empresa.
     - **Respuesta: b** · *LPRL, art. 35.1*
 
-26. Los Delegados de Prevención son designados:
+26. Los Delegados de Prevención serán designados:
     - a) Directamente por todos los trabajadores en votación.
     - b) Por y entre los representantes del personal.
     - c) Por la autoridad laboral.
-    - **Respuesta: b** · *LPRL, art. 35.1*
+    - **Respuesta: b** · *LPRL, art. 35.2*
 
-27. En una empresa o centro de hasta 30 trabajadores, el Delegado de Prevención es:
+27. En las empresas de hasta treinta trabajadores, el Delegado de Prevención será:
     - a) El Delegado de Personal.
     - b) Un técnico externo.
     - c) El gerente del centro.
@@ -201,10 +201,10 @@
     - **Respuesta: b** · *LPRL, art. 35.2*
 
 30. En un centro de 101 a 500 trabajadores corresponden:
-    - a) 3 Delegados de Prevención.
+    - a) 8 Delegados de Prevención.
     - b) 5 Delegados de Prevención.
-    - c) 8 Delegados de Prevención.
-    - **Respuesta: a** · *LPRL, art. 35.2*
+    - c) 3 Delegados de Prevención.
+    - **Respuesta: c** · *LPRL, art. 35.2*
 
 31. El número máximo de Delegados de Prevención previsto en la escala del art. 35.2 LPRL es:
     - a) 6.
@@ -218,11 +218,11 @@
     - c) 4.001 trabajadores en adelante.
     - **Respuesta: c** · *LPRL, art. 35.2*
 
-33. La condición de Delegado de Prevención es una representación:
-    - a) De primer grado, elegida directamente por los trabajadores.
-    - b) De segundo grado, designada entre los representantes del personal.
-    - c) De libre nombramiento por el empresario.
-    - **Respuesta: b** · *LPRL, art. 35.1*
+33. En las empresas de treinta y uno a cuarenta y nueve trabajadores habrá un Delegado de Prevención que será elegido:
+    - a) Directamente por todos los trabajadores.
+    - b) Por el empresario.
+    - c) Por y entre los Delegados de Personal.
+    - **Respuesta: c** · *LPRL, art. 35.2*
 
 34. A efectos del cómputo de trabajadores para fijar el número de Delegados de Prevención, los contratos de duración determinada superior a un año:
     - a) No se computan.
@@ -236,22 +236,22 @@
     - c) Se computan como dos trabajadores.
     - **Respuesta: a** · *LPRL, art. 35.3*
 
-36. La figura del Delegado de Prevención:
-    - a) Sustituye a los Delegados de Personal y a la Junta de Personal.
-    - b) Se superpone a la representación general, asumiendo funciones específicas de PRL.
-    - c) Solo existe en el sector privado.
-    - **Respuesta: b** · *LPRL, art. 35.1*
+36. En las empresas o centros de trabajo que cuenten con seis o más trabajadores, la participación de éstos en materia preventiva se canalizará a través de:
+    - a) Exclusivamente del servicio de prevención.
+    - b) Sus representantes y de la representación especializada que se regula en el capítulo V de la LPRL.
+    - c) La Inspección de Trabajo y Seguridad Social.
+    - **Respuesta: b** · *LPRL, art. 34.1*
 
-37. ¿Quién designa a los Delegados de Prevención en una Administración con Junta de Personal?
-    - a) El órgano de selección de personal.
-    - b) Los miembros de la Junta de Personal, de entre ellos.
-    - c) El alcalde.
-    - **Respuesta: b** · *LPRL, art. 35.1*
+37. En los convenios colectivos podrán establecerse otros sistemas de designación de los Delegados de Prevención, siempre que se garantice que la facultad de designación corresponde a:
+    - a) El empresario.
+    - b) La autoridad laboral.
+    - c) Los representantes del personal o a los propios trabajadores.
+    - **Respuesta: c** · *LPRL, art. 35.4*
 
-38. En materia de Delegados de Prevención, la negociación colectiva o los acuerdos del art. 38 TREBEP pueden:
-    - a) Suprimir la figura.
-    - b) Establecer otros sistemas de designación, manteniendo la condición de representante del personal.
-    - c) Atribuir su designación al empresario.
+38. En el ámbito de las Administraciones públicas, el art. 35.4 LPRL permite:
+    - a) Suprimir la figura del Delegado de Prevención.
+    - b) Establecer otros sistemas de designación de los Delegados de Prevención y acordar que sus competencias puedan ser ejercidas por órganos específicos.
+    - c) Atribuir la designación de los Delegados de Prevención al titular del órgano de personal.
     - **Respuesta: b** · *LPRL, art. 35.4*
 
 ### Bloque 4 — Delegados de Prevención: competencias y facultades
@@ -270,7 +270,7 @@
 
 41. Los Delegados de Prevención deben ser consultados por el empresario:
     - a) Después de ejecutar las decisiones sobre PRL.
-    - b) Con carácter previo a la ejecución de las decisiones del art. 33 LPRL.
+    - b) Con carácter previo a su ejecución, acerca de las decisiones a que se refiere el art. 33 LPRL.
     - c) Solo una vez al año.
     - **Respuesta: b** · *LPRL, art. 36.1.c)*
 
@@ -281,14 +281,14 @@
     - **Respuesta: a** · *LPRL, art. 36.1.d)*
 
 43. Es una facultad de los Delegados de Prevención:
-    - a) Acompañar a los técnicos en las evaluaciones y a los inspectores de Trabajo en sus visitas.
+    - a) Modificar la evaluación de riesgos por sí mismos.
     - b) Despedir a los responsables.
-    - c) Modificar la evaluación de riesgos por sí mismos.
-    - **Respuesta: a** · *LPRL, art. 36.2.a)*
+    - c) Acompañar a los técnicos en las evaluaciones y a los inspectores de Trabajo en sus visitas.
+    - **Respuesta: c** · *LPRL, art. 36.2.a)*
 
-44. Respecto a la documentación de las condiciones de trabajo, los Delegados de Prevención:
+44. Respecto a la documentación relativa a las condiciones de trabajo, los Delegados de Prevención:
     - a) No pueden acceder a ella.
-    - b) Tienen acceso a la información y documentación necesaria.
+    - b) Tienen acceso, con las limitaciones del art. 22.4 LPRL, a la información y documentación que sea necesaria para el ejercicio de sus funciones.
     - c) Solo acceden con autorización judicial.
     - **Respuesta: b** · *LPRL, art. 36.2.b)*
 
@@ -316,79 +316,79 @@
     - c) Debe acudirse a la autoridad judicial.
     - **Respuesta: b** · *LPRL, art. 36.3*
 
-49. La distinción entre competencias y facultades de los Delegados de Prevención es:
-    - a) Competencias = qué pueden hacer; facultades = medios para hacerlo.
-    - b) Son sinónimos.
-    - c) Las facultades son sanciones.
-    - **Respuesta: a** · *LPRL, art. 36*
+49. La decisión negativa del empresario a la adopción de las medidas propuestas por el Delegado de Prevención en ejercicio de la facultad del art. 36.2.f) LPRL:
+    - a) No requiere motivación.
+    - b) Debe ser autorizada por la Inspección de Trabajo.
+    - c) Deberá ser motivada.
+    - **Respuesta: c** · *LPRL, art. 36.4*
 
-50. En un centro de menos de 50 trabajadores, sin Comité de Seguridad y Salud, las competencias de este órgano:
+50. En las empresas que no cuenten con Comité de Seguridad y Salud por no alcanzar el número mínimo de trabajadores, las competencias atribuidas a aquél:
     - a) No se ejercen por nadie.
-    - b) Las ejercen los Delegados de Prevención.
+    - b) Serán ejercidas por los Delegados de Prevención.
     - c) Las asume la Inspección de Trabajo.
-    - **Respuesta: b** · *LPRL, arts. 36 y 38*
+    - **Respuesta: b** · *LPRL, art. 36.1*
 
 ### Bloque 5 — Delegados de Prevención: garantías y sigilo profesional
 
 51. A los Delegados de Prevención les son de aplicación las garantías previstas en:
-    - a) El artículo 68 del Estatuto de los Trabajadores.
+    - a) La Ley General Tributaria.
     - b) El Código Penal.
-    - c) La Ley General Tributaria.
-    - **Respuesta: a** · *LPRL, art. 37.1; ET, art. 68*
+    - c) El artículo 68 del Estatuto de los Trabajadores.
+    - **Respuesta: c** · *LPRL, art. 37.1; ET, art. 68*
 
-52. Los Delegados de Prevención, por el ejercicio de sus funciones:
-    - a) No pueden ser sancionados ni discriminados por ese motivo.
-    - b) Pierden la prioridad de permanencia.
-    - c) Renuncian a su crédito horario.
-    - **Respuesta: a** · *LPRL, art. 37.1; ET, art. 68*
+52. Conforme al art. 68.c) ET, aplicable a los Delegados de Prevención, los representantes no podrán ser despedidos ni sancionados durante el ejercicio de sus funciones ni dentro de:
+    - a) Los seis meses siguientes a la expiración de su mandato.
+    - b) El año siguiente a la expiración de su mandato, salvo que ésta se produzca por revocación o dimisión.
+    - c) Los dos años siguientes a la expiración de su mandato.
+    - **Respuesta: b** · *LPRL, art. 37.1; ET, art. 68.c)*
 
-53. El tiempo dedicado a las reuniones del Comité de Seguridad y Salud por los Delegados de Prevención:
+53. El tiempo dedicado por los Delegados de Prevención a las reuniones del Comité de Seguridad y Salud:
     - a) Se descuenta del crédito horario.
-    - b) No se imputa al crédito horario.
+    - b) Se considera tiempo de trabajo efectivo, sin imputación al crédito horario.
     - c) No se considera tiempo de trabajo.
     - **Respuesta: b** · *LPRL, art. 37.1*
 
-54. El tiempo empleado en acompañar a los técnicos y a la Inspección en sus visitas (art. 36.2.a y c):
+54. El tiempo destinado a las visitas previstas en las letras a) y c) del art. 36.2 LPRL:
     - a) Se imputa al crédito horario.
-    - b) No se imputa al crédito horario.
+    - b) Se considera tiempo de trabajo efectivo, sin imputación al crédito horario.
     - c) Se descuenta del salario.
     - **Respuesta: b** · *LPRL, art. 37.1*
 
-55. La formación de los Delegados de Prevención en materia preventiva:
-    - a) La debe proporcionar el empresario y se considera tiempo de trabajo.
+55. Respecto de la formación de los Delegados de Prevención en materia preventiva:
+    - a) El tiempo dedicado a ella se considera tiempo de trabajo a todos los efectos y su coste no puede recaer sobre los Delegados.
     - b) Corre a cargo del propio delegado.
     - c) Es voluntaria y no retribuida.
     - **Respuesta: a** · *LPRL, art. 37.2*
 
 56. El deber de sigilo profesional de los Delegados de Prevención:
     - a) No existe.
-    - b) Se aplica respecto de las informaciones reservadas a las que accedan.
+    - b) Se aplica, conforme al art. 65.2 ET, respecto de las informaciones a que tuviesen acceso como consecuencia de su actuación en la empresa.
     - c) Solo afecta a los técnicos del servicio de prevención.
     - **Respuesta: b** · *LPRL, art. 37.3; ET, art. 65.2*
 
-57. El estatuto del Delegado de Prevención combina:
-    - a) Garantías (protección) y deberes (sigilo).
-    - b) Solo garantías, sin deberes.
-    - c) Solo deberes, sin garantías.
-    - **Respuesta: a** · *LPRL, art. 37*
+57. La formación de los Delegados de Prevención se deberá facilitar por el empresario:
+    - a) Exclusivamente a través de la mutua.
+    - b) Exclusivamente a través de la Inspección de Trabajo.
+    - c) Por sus propios medios o mediante concierto con organismos o entidades especializadas en la materia.
+    - **Respuesta: c** · *LPRL, art. 37.2*
 
-58. La apertura de expediente contradictorio en caso de sanción por falta grave o muy grave:
-    - a) Es una garantía del Delegado de Prevención derivada del art. 68 ET.
+58. La apertura de expediente contradictorio en el supuesto de sanciones por faltas graves o muy graves:
+    - a) Es una garantía del art. 68 ET aplicable a los Delegados de Prevención.
     - b) No procede para los representantes.
     - c) Solo se aplica al personal directivo.
-    - **Respuesta: a** · *ET, art. 68.a)*
+    - **Respuesta: a** · *LPRL, art. 37.1; ET, art. 68.a)*
 
-59. La prioridad de permanencia en la empresa o centro de trabajo:
+59. La prioridad de permanencia en la empresa o centro de trabajo, en los supuestos de suspensión o extinción por causas tecnológicas o económicas:
     - a) Es una garantía de los representantes aplicable a los Delegados de Prevención.
     - b) Es una prohibición.
     - c) Solo rige para el personal eventual.
-    - **Respuesta: a** · *ET, art. 68.b)*
+    - **Respuesta: a** · *LPRL, art. 37.1; ET, art. 68.b)*
 
-60. El sigilo profesional del Delegado de Prevención subsiste:
-    - a) Solo mientras dura su mandato, sin excepción posterior.
-    - b) Incluso tras expirar su mandato, respecto de la información reservada.
-    - c) No subsiste en ningún caso.
-    - **Respuesta: b** · *ET, art. 65.2*
+60. Según el art. 65.3 ET, el deber de sigilo de los miembros del comité de empresa:
+    - a) Se extingue con el mandato.
+    - b) Subsistirá incluso tras la expiración de su mandato e independientemente del lugar en que se encuentren.
+    - c) No existe respecto de la información comunicada con carácter reservado.
+    - **Respuesta: b** · *ET, art. 65.3*
 
 ### Bloque 6 — El Comité de Seguridad y Salud
 
@@ -399,10 +399,10 @@
     - **Respuesta: b** · *LPRL, art. 38.1*
 
 62. El Comité de Seguridad y Salud se constituye en empresas o centros que cuenten con:
-    - a) 50 o más trabajadores.
+    - a) 100 o más trabajadores.
     - b) 25 o más trabajadores.
-    - c) 100 o más trabajadores.
-    - **Respuesta: a** · *LPRL, art. 38.2*
+    - c) 50 o más trabajadores.
+    - **Respuesta: c** · *LPRL, art. 38.2*
 
 63. El carácter "paritario" del Comité de Seguridad y Salud significa que:
     - a) Lo integran solo los trabajadores.
@@ -422,46 +422,46 @@
     - c) Nunca de forma extraordinaria.
     - **Respuesta: b** · *LPRL, art. 38.3*
 
-66. En las reuniones del Comité de Seguridad y Salud pueden participar, con voz pero sin voto:
-    - a) Los delegados sindicales y los técnicos de prevención no incluidos en el Comité.
+66. En las reuniones del Comité de Seguridad y Salud participarán, con voz pero sin voto:
+    - a) Los Delegados Sindicales y los responsables técnicos de la prevención en la empresa que no estén incluidos en su composición.
     - b) Cualquier ciudadano.
     - c) Solo el empresario.
     - **Respuesta: a** · *LPRL, art. 38.2*
 
 67. Es una competencia del Comité de Seguridad y Salud:
-    - a) Participar en la elaboración, puesta en práctica y evaluación de los planes y programas de prevención.
+    - a) Participar en la elaboración, puesta en práctica y evaluación de los planes y programas de prevención de riesgos de la empresa.
     - b) Sancionar a los trabajadores.
     - c) Aprobar los presupuestos generales.
     - **Respuesta: a** · *LPRL, art. 39.1.a)*
 
 68. También es competencia del Comité de Seguridad y Salud:
-    - a) Promover iniciativas sobre métodos y procedimientos para la prevención eficaz.
+    - a) Promover iniciativas sobre métodos y procedimientos para la efectiva prevención de los riesgos.
     - b) Nombrar al gerente.
     - c) Fijar los salarios.
     - **Respuesta: a** · *LPRL, art. 39.1.b)*
 
 69. En el ejercicio de sus facultades, el Comité de Seguridad y Salud puede:
-    - a) Conocer directamente la situación relativa a la prevención de riesgos en el centro.
+    - a) Modificar la legislación aplicable.
     - b) Despedir trabajadores.
-    - c) Modificar la legislación aplicable.
-    - **Respuesta: a** · *LPRL, art. 39.2.a)*
+    - c) Conocer directamente la situación relativa a la prevención de riesgos en el centro.
+    - **Respuesta: c** · *LPRL, art. 39.2.a)*
 
-70. El Comité de Seguridad y Salud conoce e informa:
-    - a) La memoria y programación anual del servicio de prevención.
+70. El Comité de Seguridad y Salud está facultado para conocer e informar:
+    - a) La memoria y programación anual de servicios de prevención.
     - b) Las nóminas individuales.
     - c) El plan de tesorería.
     - **Respuesta: a** · *LPRL, art. 39.2.d)*
 
-71. Por debajo de 50 trabajadores, las competencias del Comité de Seguridad y Salud:
-    - a) Desaparecen.
-    - b) Las ejercen los Delegados de Prevención.
-    - c) Las ejerce el empresario en solitario.
-    - **Respuesta: b** · *LPRL, art. 38.2*
+71. En el ejercicio de sus competencias, el Comité de Seguridad y Salud está facultado para conocer y analizar los daños producidos en la salud o en la integridad física de los trabajadores, al objeto de:
+    - a) Imponer sanciones a los responsables.
+    - b) Valorar sus causas y proponer las medidas preventivas oportunas.
+    - c) Fijar las indemnizaciones correspondientes.
+    - **Respuesta: b** · *LPRL, art. 39.2.c)*
 
-72. En empresas con varios centros que cuenten con Comité de Seguridad y Salud propio:
-    - a) Puede acordarse la creación de un Comité Intercentros.
-    - b) Se prohíbe cualquier coordinación.
-    - c) Debe suprimirse uno de ellos.
+72. Las empresas que cuenten con varios centros de trabajo dotados de Comité de Seguridad y Salud:
+    - a) Podrán acordar con sus trabajadores la creación de un Comité Intercentros.
+    - b) Tienen prohibida cualquier coordinación.
+    - c) Deben suprimir uno de ellos.
     - **Respuesta: a** · *LPRL, art. 38.3*
 
 73. El Comité de Seguridad y Salud adopta:
@@ -470,23 +470,23 @@
     - c) El reglamento del Parlamento.
     - **Respuesta: a** · *LPRL, art. 38.3*
 
-74. La finalidad esencial del Comité de Seguridad y Salud es:
-    - a) La consulta regular y periódica de las actuaciones de la empresa en PRL.
+74. El Comité de Seguridad y Salud es el órgano paritario y colegiado de participación destinado a:
+    - a) La selección de personal.
     - b) La gestión económica de la empresa.
-    - c) La selección de personal.
-    - **Respuesta: a** · *LPRL, art. 38.1*
+    - c) La consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos.
+    - **Respuesta: c** · *LPRL, art. 38.1*
 
-75. ¿Quiénes forman la parte "social" del Comité de Seguridad y Salud?
+75. El Comité de Seguridad y Salud estará formado, de una parte, por:
     - a) Los Delegados de Prevención.
     - b) Los directivos de la empresa.
     - c) Los técnicos del servicio de prevención ajeno.
     - **Respuesta: a** · *LPRL, art. 38.2*
 
-76. La existencia del Comité de Seguridad y Salud:
-    - a) Exime de designar Delegados de Prevención.
-    - b) Es compatible y se nutre de los Delegados de Prevención.
-    - c) Sustituye a la Junta de Personal.
-    - **Respuesta: b** · *LPRL, arts. 35 y 38*
+76. En los supuestos de desarrollo simultáneo de actividades en un mismo centro de trabajo, se podrá acordar:
+    - a) La fusión de las empresas afectadas.
+    - b) La suspensión de los Comités de Seguridad y Salud.
+    - c) La realización de reuniones conjuntas de los Comités de Seguridad y Salud.
+    - **Respuesta: c** · *LPRL, art. 39.3*
 
 ### Bloque 7 — Los servicios de prevención
 
@@ -496,70 +496,70 @@
     - c) Un sindicato.
     - **Respuesta: a** · *LPRL, art. 31.2*
 
-78. ¿Cuál de estas es una modalidad de organización de la prevención?
-    - a) El trabajador designado.
-    - b) El comité de empresa.
-    - c) La Junta de Personal.
-    - **Respuesta: a** · *LPRL, art. 30*
+78. En cumplimiento del deber de prevención de riesgos profesionales, el empresario podrá:
+    - a) Designar uno o varios trabajadores para ocuparse de dicha actividad.
+    - b) Delegar esa actividad en el comité de empresa.
+    - c) Encomendar esa actividad a la Junta de Personal.
+    - **Respuesta: a** · *LPRL, art. 30.1*
 
-79. El servicio de prevención propio es:
-    - a) Una unidad organizativa específica dentro de la empresa.
-    - b) Una entidad externa concertada.
-    - c) Un órgano judicial.
-    - **Respuesta: a** · *LPRL, art. 31*
+79. El servicio de prevención propio:
+    - a) Es un órgano judicial.
+    - b) Es una entidad externa concertada.
+    - c) Constituirá una unidad organizativa específica y sus integrantes dedicarán de forma exclusiva su actividad en la empresa a la finalidad del mismo.
+    - **Respuesta: c** · *RSP, art. 15.1*
 
-80. El servicio de prevención ajeno es:
-    - a) Una entidad especializada externa concertada por la empresa.
+80. Se entiende por servicio de prevención ajeno:
+    - a) El prestado por una entidad especializada que concierte con la empresa la realización de actividades de prevención.
     - b) El propio empresario.
     - c) El Delegado de Prevención.
-    - **Respuesta: a** · *LPRL, art. 31*
+    - **Respuesta: a** · *RSP, art. 10.2*
 
-81. El servicio de prevención mancomunado:
-    - a) Lo comparten varias empresas (por ejemplo, de un mismo sector o área).
-    - b) Es exclusivo de una sola empresa de gran tamaño.
-    - c) Está prohibido en las Administraciones Públicas.
-    - **Respuesta: a** · *LPRL, art. 31*
+81. Podrán constituirse servicios de prevención mancomunados entre aquellas empresas que:
+    - a) Desarrollen simultáneamente actividades en un mismo centro de trabajo, edificio o centro comercial.
+    - b) Tengan más de 5.000 trabajadores cada una.
+    - c) Sean Administraciones públicas exclusivamente.
+    - **Respuesta: a** · *RSP, art. 21.1*
 
-82. La asunción personal por el empresario de la actividad preventiva:
-    - a) Es posible en empresas de reducido tamaño y si desarrolla su actividad en el centro.
-    - b) Cabe en cualquier empresa sin límite.
-    - c) Está siempre prohibida.
-    - **Respuesta: a** · *LPRL, art. 30*
+82. En las empresas de hasta diez trabajadores, el empresario podrá asumir personalmente las funciones preventivas siempre que:
+    - a) Desarrolle de forma habitual su actividad en el centro de trabajo y tenga la capacidad necesaria.
+    - b) Lo autorice el comité de empresa.
+    - c) Concierte además un servicio de prevención ajeno.
+    - **Respuesta: a** · *LPRL, art. 30.5*
 
-83. En las Administraciones Públicas, los servicios de prevención pueden ser:
-    - a) Propios o mancomunados entre organismos.
-    - b) Únicamente ajenos.
-    - c) Inexistentes.
-    - **Respuesta: a** · *LPRL, art. 31*
+83. Para el establecimiento de los servicios de prevención en las Administraciones públicas se tendrá en cuenta:
+    - a) Únicamente el número de funcionarios.
+    - b) Su estructura organizativa y la existencia, en su caso, de ámbitos sectoriales y descentralizados.
+    - c) El criterio de la mutua colaboradora.
+    - **Respuesta: b** · *LPRL, art. 31.1*
 
-84. El Ayuntamiento de Madrid, en cuanto a su servicio de prevención:
-    - a) Dispone de Servicio de Prevención propio.
-    - b) Carece de servicio de prevención.
-    - c) Solo usa mutuas privadas.
-    - **Respuesta: a** · *AC1922, art. 46*
+84. La organización de los recursos necesarios para el desarrollo de las actividades preventivas en la Administración municipal de Madrid se realizará en la modalidad de:
+    - a) Asunción personal por el titular del órgano.
+    - b) Servicio de prevención ajeno.
+    - c) Servicio de prevención propio.
+    - **Respuesta: c** · *AC1922, art. 46.2*
 
-85. ¿A quién corresponde realizar las evaluaciones de riesgos y la vigilancia de la salud técnica?
-    - a) Al servicio de prevención.
-    - b) A la Junta de Personal.
-    - c) Al Delegado de Personal.
-    - **Respuesta: a** · *LPRL, art. 31*
+85. Los servicios de prevención deberán estar en condiciones de proporcionar a la empresa el asesoramiento y apoyo que precise en lo referente a, entre otras materias:
+    - a) La negociación del convenio colectivo.
+    - b) La elección de los representantes del personal.
+    - c) La vigilancia de la salud de los trabajadores en relación con los riesgos derivados del trabajo.
+    - **Respuesta: c** · *LPRL, art. 31.3.f)*
 
-86. La modalidad de "trabajador designado" implica que:
-    - a) Uno o varios trabajadores se ocupan de la actividad preventiva con la formación adecuada.
-    - b) Se contrata obligatoriamente a una entidad externa.
-    - c) Se suprime el servicio de prevención.
-    - **Respuesta: a** · *LPRL, art. 30*
+86. Los trabajadores designados para ocuparse de la actividad preventiva deberán:
+    - a) Ser siempre técnicos de nivel superior ajenos a la empresa.
+    - b) Tener la capacidad necesaria, disponer del tiempo y de los medios precisos y ser suficientes en número.
+    - c) Ser miembros del comité de empresa.
+    - **Respuesta: b** · *LPRL, art. 30.2*
 
 ### Bloque 8 — La PRL en el Acuerdo-Convenio del Ayuntamiento de Madrid
 
-87. El Acuerdo-Convenio del Ayuntamiento de Madrid actualmente en vigor corresponde al periodo:
-    - a) 2019-2022 (prorrogado).
-    - b) 2008-2011.
-    - c) 2023-2026.
-    - **Respuesta: a** · *AC1922*
+87. Agotada la vigencia del Acuerdo-Convenio 2019-2022 sin que se hubiera producido denuncia expresa en plazo:
+    - a) Quedará sin efecto de forma automática.
+    - b) Se prorrogará por un único período de cuatro años.
+    - c) Se considerará tácitamente prorrogado por períodos anuales sucesivos.
+    - **Respuesta: c** · *AC1922, art. 4.1*
 
 88. La PRL en el Acuerdo-Convenio del Ayuntamiento de Madrid se regula en:
-    - a) El Capítulo IX, "Salud Laboral y Prevención de Riesgos Laborales" (arts. 45-52).
+    - a) El Capítulo IX, «Salud laboral y Prevención de Riesgos Laborales» (arts. 45-52).
     - b) El Capítulo I.
     - c) Una disposición adicional única.
     - **Respuesta: a** · *AC1922, Cap. IX*
@@ -577,34 +577,34 @@
     - **Respuesta: a** · *AC1922, art. 48*
 
 91. El Comité de Seguridad y Salud del Ayuntamiento de Madrid está integrado por:
-    - a) 15 Delegados de Prevención y 15 representantes de la Administración.
+    - a) 25 y 25.
     - b) 10 y 10.
-    - c) 25 y 25.
-    - **Respuesta: a** · *AC1922, art. 48*
+    - c) 15 Delegados de Prevención y 15 representantes de la Administración.
+    - **Respuesta: c** · *AC1922, art. 48*
 
 92. El Comité de Seguridad y Salud del Ayuntamiento de Madrid es:
-    - a) Único y paritario para el conjunto del Ayuntamiento y sus Organismos Autónomos.
+    - a) El órgano único, paritario y colegiado de participación de la Administración municipal (Ayuntamiento y organismos autónomos).
     - b) Uno por cada distrito.
     - c) Uno por cada puesto de trabajo.
-    - **Respuesta: a** · *AC1922, art. 48*
+    - **Respuesta: a** · *AC1922, art. 48.2*
 
 93. El crédito horario retribuido de cada Delegado de Prevención en el Ayuntamiento de Madrid es de:
     - a) 40 horas mensuales.
     - b) 15 horas mensuales.
     - c) 8 horas mensuales.
-    - **Respuesta: a** · *AC1922, art. 48*
+    - **Respuesta: a** · *AC1922, art. 48.6*
 
-94. El crédito de 40 horas mensuales del Delegado de Prevención municipal:
-    - a) Es adicional al crédito sindical general.
-    - b) Sustituye a cualquier otro crédito.
-    - c) No existe.
-    - **Respuesta: a** · *AC1922, art. 48*
+94. El crédito de 40 horas mensuales del Delegado de Prevención municipal es:
+    - a) Complementario y adicional al que pudiera corresponderle, si la tuviere, en su condición de representante unitario o sindical.
+    - b) Sustitutivo de cualquier otro crédito.
+    - c) Inexistente.
+    - **Respuesta: a** · *AC1922, art. 48.6*
 
-95. El tiempo invertido en reuniones del Comité de Seguridad y Salud por los delegados municipales:
-    - a) Computa como trabajo efectivo y no se descuenta del crédito mensual.
+95. El tiempo correspondiente a las reuniones de los Comités de Seguridad y Salud de los que forme parte el delegado de prevención municipal:
+    - a) Es tiempo no retribuido.
     - b) Se descuenta íntegramente del crédito.
-    - c) Es tiempo no retribuido.
-    - **Respuesta: a** · *AC1922, art. 48*
+    - c) Se considera tiempo de trabajo efectivo, sin imputación al crédito de horas mensuales.
+    - **Respuesta: c** · *AC1922, art. 48.6*
 
 96. El Plan de Prevención de Riesgos Laborales del Ayuntamiento de Madrid se aprobó por:
     - a) Acuerdo de 26 de noviembre de 2020 de la Junta de Gobierno de la Ciudad de Madrid.
@@ -613,10 +613,10 @@
     - **Respuesta: a** · *PLAN-PRL*
 
 97. El Capítulo IX del Acuerdo-Convenio, además de la representación, regula materias como:
-    - a) Vigilancia de la salud, adaptación de puestos y planes de autoprotección.
+    - a) Las adaptaciones de puesto y movilidad por motivos de salud y los planes de autoprotección.
     - b) El impuesto sobre bienes inmuebles.
     - c) El procedimiento administrativo común.
-    - **Respuesta: a** · *AC1922, Cap. IX*
+    - **Respuesta: a** · *AC1922, arts. 49 y 51*
 
 98. La rúbrica del art. 48 del Acuerdo-Convenio es:
     - a) "Representación del personal municipal".
@@ -624,49 +624,49 @@
     - c) "Recursos económicos".
     - **Respuesta: a** · *AC1922, art. 48*
 
-99. La vigilancia de la salud en el Acuerdo-Convenio se caracteriza por:
-    - a) Reconocimientos médicos periódicos, con voluntariedad y confidencialidad.
-    - b) Ser obligatoria y pública en todos los casos.
-    - c) No estar prevista.
-    - **Respuesta: a** · *AC1922, Cap. IX*
+99. La periodicidad de los reconocimientos médicos de los empleados municipales será:
+    - a) Anual en todo caso.
+    - b) La que marquen los Protocolos de Vigilancia Sanitaria específica de los trabajadores.
+    - c) Cada cinco años.
+    - **Respuesta: b** · *AC1922, art. 45.2*
 
-100. El Acuerdo-Convenio, respecto de los mínimos de la LPRL en participación y consulta:
-    - a) Los mejora y desarrolla.
-    - b) Los reduce.
-    - c) Los deroga.
-    - **Respuesta: a** · *AC1922, Cap. IX*
+100. Las disposiciones de carácter laboral contenidas en la LPRL y en sus normas reglamentarias tendrán en todo caso el carácter de:
+    - a) Normas dispositivas que los convenios colectivos pueden rebajar.
+    - b) Derecho supletorio de los convenios colectivos.
+    - c) Derecho necesario mínimo indisponible, pudiendo ser mejoradas y desarrolladas en los convenios colectivos.
+    - **Respuesta: c** · *LPRL, art. 2.2*
 
-101. La doble naturaleza del Acuerdo-Convenio supone que:
-    - a) Es Acuerdo para los funcionarios y opera como convenio colectivo para el personal laboral.
-    - b) Es solo un reglamento interno.
-    - c) Es una ley estatal.
-    - **Respuesta: a** · *AC1922; TREBEP, art. 38*
+101. El personal municipal que deba acudir a los reconocimientos médicos fuera de su jornada laboral por practicarse en turno distinto al suyo:
+    - a) No tendrá compensación alguna.
+    - b) Será compensado con cargo a su jornada laboral del tiempo invertido en los mismos.
+    - c) Percibirá una gratificación extraordinaria.
+    - **Respuesta: b** · *AC1922, art. 45.2*
 
-102. El Acuerdo-Convenio se negocia en:
-    - a) La Mesa General de Negociación del Ayuntamiento de Madrid.
-    - b) El Congreso de los Diputados.
-    - c) El Pleno del Tribunal Constitucional.
-    - **Respuesta: a** · *AC1922; TREBEP, art. 36*
+102. Para la negociación de las materias y condiciones de trabajo comunes al personal funcionario, estatutario y laboral de cada Administración Pública, se constituirá en cada entidad local:
+    - a) Un Comité de Seguridad y Salud.
+    - b) Una Junta de Personal.
+    - c) Una Mesa General de Negociación.
+    - **Respuesta: c** · *TREBEP, art. 36.3*
 
-103. El ámbito de aplicación del Acuerdo-Convenio comprende:
-    - a) El Ayuntamiento de Madrid y sus Organismos Autónomos, incluido el IAM.
-    - b) Solo el personal eventual.
-    - c) Únicamente a los altos cargos.
-    - **Respuesta: a** · *AC1922*
+103. El Acuerdo-Convenio será de aplicación, en los términos establecidos, al personal:
+    - a) Exclusivamente funcionario de carrera del Ayuntamiento.
+    - b) Funcionario y laboral que presta o preste servicios en los centros, dependencias o servicios del Ayuntamiento de Madrid y sus organismos autónomos.
+    - c) Exclusivamente laboral de los organismos autónomos.
+    - **Respuesta: b** · *AC1922, art. 3.1*
 
 104. El organismo "Madrid Salud", según el reparto del art. 48, cuenta con:
-    - a) 7 Delegados de Prevención.
+    - a) 0 Delegados de Prevención.
     - b) 56 Delegados de Prevención.
-    - c) 0 Delegados de Prevención.
-    - **Respuesta: a** · *AC1922, art. 48*
+    - c) 7 Delegados de Prevención.
+    - **Respuesta: c** · *AC1922, art. 48*
 
 ### Bloque 9 — TREBEP: representación de los empleados públicos (marco y órganos)
 
-105. La representación general de los empleados públicos funcionarios se regula en:
-    - a) El TREBEP (RDLeg 5/2015).
-    - b) La LPRL.
-    - c) La Ley General Tributaria.
-    - **Respuesta: a** · *TREBEP*
+105. Las Juntas de Personal elegirán de entre sus miembros:
+    - a) Un Presidente y dos Vicepresidentes.
+    - b) Un Delegado Sindical.
+    - c) Un Presidente y un Secretario.
+    - **Respuesta: c** · *TREBEP, art. 39.6*
 
 106. Los órganos específicos de representación del personal funcionario son:
     - a) Los Delegados de Personal y las Juntas de Personal.
@@ -674,8 +674,8 @@
     - c) El Pleno y la Junta de Gobierno.
     - **Respuesta: a** · *TREBEP, art. 39.1*
 
-107. En unidades electorales de menos de 50 funcionarios se eligen:
-    - a) Delegados de Personal.
+107. En las unidades electorales donde el número de funcionarios sea igual o superior a 6 e inferior a 50, la representación corresponde a:
+    - a) Los Delegados de Personal.
     - b) Una Junta de Personal.
     - c) Un Comité de Empresa.
     - **Respuesta: a** · *TREBEP, art. 39.2*
@@ -687,84 +687,84 @@
     - **Respuesta: a** · *TREBEP, art. 39.2*
 
 109. De 31 a 49 funcionarios, el número de Delegados de Personal es:
-    - a) 3.
+    - a) 9.
     - b) 1.
-    - c) 9.
-    - **Respuesta: a** · *TREBEP, art. 39.2*
+    - c) 3.
+    - **Respuesta: c** · *TREBEP, art. 39.2*
 
-110. La Junta de Personal se constituye en unidades electorales con:
-    - a) 50 o más funcionarios.
-    - b) Menos de 50 funcionarios.
-    - c) Cualquier número de funcionarios.
+110. Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de:
+    - a) 50 funcionarios.
+    - b) 30 funcionarios.
+    - c) 6 funcionarios.
     - **Respuesta: a** · *TREBEP, art. 39.3*
 
-111. La composición de la Junta de Personal:
-    - a) Es variable según tramos por número de funcionarios.
-    - b) Es siempre de 5 miembros.
-    - c) La fija libremente el empleador.
-    - **Respuesta: a** · *TREBEP, art. 39.4*
+111. En las unidades electorales de 50 a 100 funcionarios, la Junta de Personal se compone de:
+    - a) 9 representantes.
+    - b) 5 representantes.
+    - c) 3 representantes.
+    - **Respuesta: b** · *TREBEP, art. 39.5*
 
-112. La distinción TREBEP/LPRL en materia de representación es:
-    - a) El TREBEP regula la representación general; la LPRL, la específica preventiva.
-    - b) Ambas regulan lo mismo.
-    - c) La LPRL regula la negociación colectiva.
-    - **Respuesta: a** · *TREBEP; LPRL*
+112. Entre las funciones de las Juntas de Personal y Delegados de Personal figura vigilar el cumplimiento de las normas vigentes en materia de:
+    - a) Contratación pública.
+    - b) Tributos locales.
+    - c) Condiciones de trabajo, prevención de riesgos laborales, Seguridad Social y empleo.
+    - **Respuesta: c** · *TREBEP, art. 40.1.e)*
 
-113. El derecho a la libre elección de representantes de los funcionarios:
-    - a) Está reconocido en el TREBEP.
-    - b) No existe.
-    - c) Es exclusivo del personal laboral.
-    - **Respuesta: a** · *TREBEP, art. 39.1*
+113. La elección de las Juntas de Personal y de los Delegados de Personal se realizará mediante sufragio:
+    - a) Indirecto, a través de las organizaciones sindicales.
+    - b) Personal, directo, libre y secreto, que podrá emitirse por correo o por otros medios telemáticos.
+    - c) Público y a mano alzada.
+    - **Respuesta: b** · *TREBEP, art. 44.a)*
 
-114. ¿Cuál es el umbral que separa la representación unipersonal de la colegiada para funcionarios?
-    - a) 50 funcionarios.
-    - b) 25 funcionarios.
-    - c) 100 funcionarios.
-    - **Respuesta: a** · *TREBEP, art. 39*
+114. En las unidades electorales de 31 a 49 funcionarios se elegirán tres Delegados de Personal, que ejercerán su representación:
+    - a) Individualmente, cada uno en una dependencia.
+    - b) Por turnos anuales.
+    - c) Conjunta y mancomunadamente.
+    - **Respuesta: c** · *TREBEP, art. 39.2*
 
-115. La negociación colectiva de las condiciones de trabajo de los empleados públicos se articula a través de:
-    - a) Las Mesas de Negociación.
-    - b) La Inspección de Trabajo.
-    - c) El servicio de prevención.
-    - **Respuesta: a** · *TREBEP, arts. 33-36*
+115. A efectos de la negociación colectiva de condiciones de trabajo de los funcionarios públicos se constituirán:
+    - a) Comités de Seguridad y Salud.
+    - b) Mesas de Negociación.
+    - c) Servicios de prevención mancomunados.
+    - **Respuesta: b** · *TREBEP, art. 33.1*
 
-116. La Mesa General de Negociación de las Administraciones Públicas:
-    - a) Es un órgano de negociación colectiva previsto en el TREBEP.
-    - b) Es un órgano judicial.
-    - c) No tiene relación con la representación.
-    - **Respuesta: a** · *TREBEP, art. 36*
+116. La Mesa General de Negociación de las Administraciones Públicas estará presidida por:
+    - a) La Federación Española de Municipios y Provincias.
+    - b) Las comunidades autónomas, por turno rotatorio.
+    - c) La Administración General del Estado.
+    - **Respuesta: c** · *TREBEP, art. 36.1*
 
-117. Los resultados de la negociación colectiva en el ámbito funcionarial se plasman en:
-    - a) Pactos y Acuerdos.
-    - b) Sentencias.
+117. En el seno de las Mesas de Negociación, los representantes de las Administraciones Públicas podrán concertar con las organizaciones sindicales legitimadas:
+    - a) Sentencias.
+    - b) Pactos y Acuerdos.
     - c) Ordenanzas fiscales.
-    - **Respuesta: a** · *TREBEP, art. 38*
+    - **Respuesta: b** · *TREBEP, art. 38.1*
 
-118. El máximo de miembros de una Junta de Personal previsto en el TREBEP es:
+118. En las unidades electorales de 1.001 funcionarios en adelante, la Junta de Personal tendrá dos miembros por cada 1.000 o fracción, con el máximo de:
     - a) 75.
     - b) 30.
     - c) 8.
-    - **Respuesta: a** · *TREBEP, art. 39.4*
+    - **Respuesta: a** · *TREBEP, art. 39.5*
 
-119. La duración del mandato de los representantes (Delegados y Juntas de Personal) es, con carácter general, de:
-    - a) Cuatro años.
+119. El mandato de los miembros de las Juntas de Personal y de los Delegados de Personal será de:
+    - a) Cuatro años, pudiendo ser reelegidos.
     - b) Un año.
-    - c) Diez años.
+    - c) Diez años, sin reelección.
     - **Respuesta: a** · *TREBEP, art. 42*
 
-120. La representación preventiva (Delegados de Prevención) se nutre, en el ámbito funcionarial, de:
-    - a) Los miembros de las Juntas de Personal.
-    - b) Los altos cargos.
-    - c) Los tribunales de selección.
-    - **Respuesta: a** · *LPRL, art. 35; TREBEP, art. 39*
+120. Si, a su término, no se hubiesen promovido nuevas elecciones, el mandato de los miembros de las Juntas de Personal y de los Delegados de Personal:
+    - a) Se extinguirá sin más.
+    - b) Pasará a ejercerlo la Administración.
+    - c) Se entenderá prorrogado.
+    - **Respuesta: c** · *TREBEP, art. 42*
 
 ### Bloque 10 — Representación del personal laboral
 
 121. La representación del personal laboral se rige por:
-    - a) El Estatuto de los Trabajadores.
+    - a) La LPRL exclusivamente.
     - b) El TREBEP exclusivamente.
-    - c) La LPRL exclusivamente.
-    - **Respuesta: a** · *ET*
+    - c) El Estatuto de los Trabajadores.
+    - **Respuesta: c** · *ET, arts. 62.1 y 63.1*
 
 122. Los órganos de representación del personal laboral son:
     - a) Delegados de Personal y Comité de Empresa.
@@ -772,35 +772,35 @@
     - c) Comité de Seguridad y Salud y servicio de prevención.
     - **Respuesta: a** · *ET, arts. 62-63*
 
-123. El Comité de Empresa se constituye en centros con:
-    - a) 50 o más trabajadores.
-    - b) Menos de 50 trabajadores.
-    - c) 6 o más trabajadores.
-    - **Respuesta: a** · *ET, art. 63*
+123. El comité de empresa se constituye en cada centro de trabajo cuyo censo sea de:
+    - a) Cincuenta o más trabajadores.
+    - b) Menos de cincuenta trabajadores.
+    - c) Seis o más trabajadores.
+    - **Respuesta: a** · *ET, art. 63.1*
 
-124. Los Delegados de Personal (laborales) se eligen en centros de:
-    - a) 6 a 49 trabajadores.
-    - b) 50 o más trabajadores.
-    - c) Más de 250 trabajadores.
-    - **Respuesta: a** · *ET, art. 62*
+124. La representación de los trabajadores en la empresa o centro de trabajo que tengan menos de cincuenta y más de diez trabajadores corresponde a:
+    - a) El comité de empresa.
+    - b) Los delegados de personal.
+    - c) La Junta de Personal.
+    - **Respuesta: b** · *ET, art. 62.1*
 
-125. De 6 a 30 trabajadores laborales corresponde elegir:
-    - a) 1 Delegado de Personal.
-    - b) 3 Delegados de Personal.
-    - c) Un Comité de Empresa.
-    - **Respuesta: a** · *ET, art. 62*
+125. En las empresas o centros de hasta treinta trabajadores, los trabajadores elegirán:
+    - a) 1 delegado de personal.
+    - b) 3 delegados de personal.
+    - c) Un comité de empresa.
+    - **Respuesta: a** · *ET, art. 62.1*
 
-126. De 31 a 49 trabajadores laborales corresponde elegir:
-    - a) 3 Delegados de Personal.
-    - b) 1 Delegado de Personal.
-    - c) 5 Delegados de Personal.
-    - **Respuesta: a** · *ET, art. 62*
+126. De treinta y uno a cuarenta y nueve trabajadores, los trabajadores elegirán:
+    - a) 5 delegados de personal.
+    - b) 1 delegado de personal.
+    - c) 3 delegados de personal.
+    - **Respuesta: c** · *ET, art. 62.1*
 
-127. La composición del Comité de Empresa:
-    - a) Es proporcional por tramos según el número de trabajadores.
-    - b) Es siempre de 9 miembros.
-    - c) La fija el empresario.
-    - **Respuesta: a** · *ET, art. 66*
+127. De cincuenta a cien trabajadores, el número de miembros del comité de empresa será de:
+    - a) Nueve.
+    - b) Tres.
+    - c) Cinco.
+    - **Respuesta: c** · *ET, art. 66.1.a)*
 
 128. Las garantías de los representantes laborales se contienen en:
     - a) El artículo 68 del Estatuto de los Trabajadores.
@@ -808,17 +808,17 @@
     - c) El Código Civil.
     - **Respuesta: a** · *ET, art. 68*
 
-129. El umbral de 50 trabajadores en el ET:
-    - a) Coincide con el umbral del Comité de Seguridad y Salud en PRL.
-    - b) No tiene relación con la PRL.
-    - c) Es de 100 en PRL.
-    - **Respuesta: a** · *ET, art. 63; LPRL, art. 38*
+129. Los comités de empresa deberán reunirse:
+    - a) Trimestralmente y siempre que lo solicite alguna de las representaciones.
+    - b) Cada dos meses o siempre que lo solicite un tercio de sus miembros o un tercio de los trabajadores representados.
+    - c) Una vez al año.
+    - **Respuesta: b** · *ET, art. 66.2*
 
-130. En el Ayuntamiento de Madrid, los Comités de Empresa:
-    - a) Se constituyen por organismo (personal laboral).
-    - b) No existen.
-    - c) Sustituyen a la Junta de Personal funcionarial.
-    - **Respuesta: a** · *ET; AC1922*
+130. El comité de empresa es:
+    - a) Un órgano paritario de trabajadores y empresario.
+    - b) Un órgano unipersonal de representación.
+    - c) El órgano representativo y colegiado del conjunto de los trabajadores en la empresa o centro de trabajo para la defensa de sus intereses.
+    - **Respuesta: c** · *ET, art. 63.1*
 
 ### Bloque 11 — Competencias, garantías y derecho de reunión (TREBEP)
 
@@ -826,123 +826,123 @@
     - a) Recibir información sobre la política de personal.
     - b) Aprobar los presupuestos del Estado.
     - c) Nombrar a los funcionarios.
-    - **Respuesta: a** · *TREBEP, art. 40.1*
+    - **Respuesta: a** · *TREBEP, art. 40.1.a)*
 
-132. Las Juntas y Delegados de Personal emiten informe, a solicitud de la Administración, en materias como:
-    - a) Traslados, planes de formación y régimen disciplinario.
-    - b) Política monetaria.
-    - c) Urbanismo.
-    - **Respuesta: a** · *TREBEP, art. 40.1*
+132. Las Juntas y Delegados de Personal emiten informe, a solicitud de la Administración Pública correspondiente, sobre:
+    - a) La política monetaria.
+    - b) El planeamiento urbanístico.
+    - c) El traslado total o parcial de las instalaciones e implantación o revisión de sus sistemas de organización y métodos de trabajo.
+    - **Respuesta: c** · *TREBEP, art. 40.1.b)*
 
-133. Entre las garantías de la función representativa (art. 41 TREBEP) figura:
-    - a) No ser trasladados ni sancionados por el ejercicio de sus funciones.
+133. Entre las garantías de los miembros de las Juntas de Personal y de los Delegados de Personal figura:
+    - a) No ser trasladados ni sancionados por causas relacionadas con el ejercicio de su mandato representativo.
     - b) La inmunidad penal absoluta.
     - c) La exención de cotizar.
-    - **Respuesta: a** · *TREBEP, art. 41*
+    - **Respuesta: a** · *TREBEP, art. 41.1.e)*
 
-134. El crédito de horas mensuales retribuidas de los representantes:
-    - a) Se fija por tramos según el tamaño de la unidad electoral.
-    - b) Es ilimitado.
-    - c) No existe.
-    - **Respuesta: a** · *TREBEP, art. 41*
+134. En las unidades electorales de hasta 100 funcionarios, el crédito de horas mensuales retribuidas de los representantes es de:
+    - a) 20 horas.
+    - b) 40 horas.
+    - c) 15 horas.
+    - **Respuesta: c** · *TREBEP, art. 41.1.d)*
 
-135. Las horas del crédito de los miembros de un mismo órgano de representación:
-    - a) Pueden acumularse en uno o varios de ellos.
-    - b) No pueden acumularse nunca.
-    - c) Se pierden si no se usan en el día.
-    - **Respuesta: a** · *TREBEP, art. 41*
+135. Los miembros de la Junta de Personal y Delegados de Personal de la misma candidatura que así lo manifiesten:
+    - a) No pueden acumular nunca los créditos horarios.
+    - b) Pierden el crédito horario no utilizado en el día.
+    - c) Podrán proceder a la acumulación de los créditos horarios, previa comunicación al órgano que ostente la Jefatura de Personal.
+    - **Respuesta: c** · *TREBEP, art. 41.1.d)*
 
-136. Para convocar una reunión están legitimados, entre otros:
-    - a) Los empleados públicos en número no inferior al 40 % del colectivo.
+136. Además de otros sujetos, están legitimados para convocar una reunión:
+    - a) Los empleados públicos de las Administraciones respectivas en número no inferior al 40 por 100 del colectivo convocado.
     - b) Cualquier empleado individualmente.
     - c) Solo el alcalde.
-    - **Respuesta: a** · *TREBEP, art. 46.2*
+    - **Respuesta: a** · *TREBEP, art. 46.1.d)*
 
-137. El preaviso para celebrar una reunión es de:
-    - a) 48 horas.
-    - b) 24 horas.
-    - c) 7 días.
-    - **Respuesta: a** · *TREBEP, art. 46.4*
+137. Las reuniones en el centro de trabajo se autorizarán:
+    - a) Siempre dentro de las horas de trabajo.
+    - b) Solo en días no laborables.
+    - c) Fuera de las horas de trabajo, salvo acuerdo entre el órgano competente en materia de personal y quienes estén legitimados para convocarlas.
+    - **Respuesta: c** · *TREBEP, art. 46.2*
 
 138. Entre los legitimados para convocar reuniones también están:
-    - a) Las organizaciones sindicales y los Delegados/Juntas de Personal.
+    - a) Las organizaciones sindicales, directamente o a través de los Delegados Sindicales, y los Delegados y Juntas de Personal.
     - b) Las empresas privadas del sector.
     - c) Los partidos políticos.
-    - **Respuesta: a** · *TREBEP, art. 46.2*
+    - **Respuesta: a** · *TREBEP, art. 46.1*
 
-139. El deber de sigilo profesional de los representantes:
-    - a) Forma parte de su régimen de garantías y deberes.
-    - b) No se aplica.
-    - c) Solo afecta a los Delegados de Prevención.
-    - **Respuesta: a** · *TREBEP, art. 41*
+139. Los miembros de la Junta de Personal y los Delegados de Personal observarán sigilo profesional en los asuntos en que la Administración señale expresamente el carácter reservado:
+    - a) Solo durante su mandato.
+    - b) Solo durante el año siguiente a su elección.
+    - c) Aun después de expirar su mandato.
+    - **Respuesta: c** · *TREBEP, art. 41.3*
 
-140. La comunicación de la reunión debe indicar:
-    - a) Lugar, hora, orden del día y datos de los convocantes.
-    - b) Solo la hora.
-    - c) Nada en particular.
-    - **Respuesta: a** · *TREBEP, art. 46.4*
+140. Respecto de la celebración de una reunión en el centro de trabajo, el art. 46.2 TREBEP establece que:
+    - a) La Administración será responsable de su normal desarrollo.
+    - b) Podrá interrumpir la prestación de los servicios.
+    - c) No perjudicará la prestación de los servicios y los convocantes serán responsables de su normal desarrollo.
+    - **Respuesta: c** · *TREBEP, art. 46.2*
 
-141. Si la Administración no formula objeciones en el plazo previsto:
-    - a) La reunión podrá celebrarse.
-    - b) La reunión queda automáticamente prohibida.
-    - c) Debe convocarse de nuevo.
-    - **Respuesta: a** · *TREBEP, art. 46.5*
+141. Los miembros de las Juntas de Personal tienen derecho a la audiencia en los expedientes disciplinarios a que pudieran ser sometidos durante el tiempo de su mandato y durante:
+    - a) Los dos años posteriores.
+    - b) Los seis meses posteriores.
+    - c) El año inmediatamente posterior.
+    - **Respuesta: c** · *TREBEP, art. 41.1.c)*
 
-142. Las dos cifras clave del derecho de reunión del art. 46 TREBEP son:
-    - a) 40 % (legitimación) y 48 horas (preaviso).
-    - b) 50 % y 24 horas.
-    - c) 10 % y 72 horas.
-    - **Respuesta: a** · *TREBEP, art. 46*
+142. Los miembros de las Juntas de Personal y los Delegados de Personal no podrán ser discriminados, por razón del desempeño de su representación:
+    - a) Solo en su retribución básica.
+    - b) Solo en su jornada de trabajo.
+    - c) En su formación ni en su promoción económica o profesional.
+    - **Respuesta: c** · *TREBEP, art. 41.2*
 
 ### Bloque 12 — Representación en el Ayuntamiento de Madrid e integración
 
-143. Los Delegados de Prevención del Ayuntamiento de Madrid se designan, en última instancia:
-    - a) De entre los miembros de las Juntas de Personal y Comités de Empresa.
-    - b) Por sorteo entre todo el personal.
-    - c) Por el servicio de prevención ajeno.
-    - **Respuesta: a** · *LPRL, art. 35; AC1922, art. 48*
+143. Según el art. 48.4 del Acuerdo-Convenio, sin perjuicio del reparto fijado, el número de delegados de prevención se establecerá en:
+    - a) El número que decida el Comité de Seguridad y Salud cada año.
+    - b) Un delegado por cada centro de trabajo.
+    - c) El número que permita la legislación vigente en cada momento.
+    - **Respuesta: c** · *AC1922, art. 48.4*
 
-144. El Acuerdo-Convenio, respecto del número de Delegados de Prevención del mínimo legal:
-    - a) Lo amplía (hasta 83 en el conjunto municipal).
-    - b) Lo reduce a la mitad.
-    - c) Lo deja igual.
-    - **Respuesta: a** · *AC1922, art. 48*
+144. En el seno del Comité de Seguridad y Salud municipal se elaborará:
+    - a) El censo electoral de las Juntas de Personal.
+    - b) El presupuesto del Servicio de Prevención.
+    - c) Un registro de los delegados de prevención designados.
+    - **Respuesta: c** · *AC1922, art. 48.5*
 
-145. La relación entre representación general y preventiva en el Ayuntamiento es:
-    - a) La preventiva es una proyección especializada de la general.
-    - b) Son sistemas incompatibles.
-    - c) La general depende del servicio de prevención.
-    - **Respuesta: a** · *LPRL; TREBEP; AC1922*
+145. Cualquier protocolo, procedimiento, instrucción operativa, método de trabajo o documento cuyo contenido afecte a la seguridad y salud de los trabajadores municipales deberá ser presentado y consultado en:
+    - a) El Pleno del Ayuntamiento.
+    - b) La Junta de Gobierno.
+    - c) El Comité de Seguridad y Salud o en su Comisión Permanente.
+    - **Respuesta: c** · *AC1922, art. 48.1*
 
-146. En el Ayuntamiento de Madrid coexisten, en el plano representativo:
-    - a) Juntas de Personal, Comités de Empresa y secciones sindicales.
-    - b) Únicamente el Comité de Seguridad y Salud.
-    - c) Solo Delegados de Prevención.
-    - **Respuesta: a** · *AC1922; TREBEP; ET*
+146. Según el art. 48 del Acuerdo-Convenio, la defensa de los intereses del personal municipal en materia de prevención de riesgos se llevará a efecto a través de:
+    - a) Exclusivamente las Juntas de Personal.
+    - b) La Comisión de Seguimiento del Acuerdo-Convenio.
+    - c) Los delegados de prevención y del Comité de Seguridad y Salud.
+    - **Respuesta: c** · *AC1922, art. 48*
 
-147. El Comité de Seguridad y Salud único del Ayuntamiento se coordina, en el plano general, con:
-    - a) Los órganos de negociación y seguimiento del propio Acuerdo-Convenio.
-    - b) El Tribunal de Cuentas.
-    - c) La Agencia Tributaria estatal.
-    - **Respuesta: a** · *AC1922*
+147. En las reuniones del Comité de Seguridad y Salud municipal podrán participar con voz pero sin voto, por cada organización sindical representada en el mismo, hasta un máximo de:
+    - a) Cinco asesores.
+    - b) Un asesor.
+    - c) Dos asesores.
+    - **Respuesta: c** · *AC1922, art. 48.3*
 
-148. Para un Técnico Auxiliar TIC del IAM, la participación en PRL se canaliza a través de:
-    - a) Los 6 Delegados de Prevención del IAM y el Comité de Seguridad y Salud único.
-    - b) Un comité exclusivo de su unidad.
-    - c) La Inspección de Trabajo.
-    - **Respuesta: a** · *AC1922, art. 48*
+148. La presidencia del Comité de Seguridad y Salud municipal recaerá en:
+    - a) El Alcalde, sin posibilidad de delegación.
+    - b) El delegado de prevención de mayor antigüedad.
+    - c) La figura encargada de establecer la política general de prevención o persona en quien delegue.
+    - **Respuesta: c** · *AC1922, art. 48.2*
 
-149. ¿Qué tema del temario desarrolla los derechos colectivos y la negociación colectiva del empleado público?
-    - a) El Tema 5 (TREBEP / EBEP).
-    - b) El Tema 8 (Haciendas Locales).
-    - c) Ninguno.
-    - **Respuesta: a** · *Tema 5 (TREBEP)*
+149. Se facilitará a los delegados de prevención municipales la planificación anticipada de las obras y traslados del personal con, al menos:
+    - a) 48 horas de antelación.
+    - b) 3 meses de antelación.
+    - c) 15 días de antelación.
+    - **Respuesta: c** · *AC1922, art. 50.3*
 
-150. La idea-fuerza para integrar el tema es:
-    - a) Una representación general (TREBEP/ET) y una representación preventiva (LPRL) que se enlazan y que el Acuerdo-Convenio del Ayuntamiento mejora.
-    - b) Que la PRL no afecta a las Administraciones Públicas.
-    - c) Que el Comité de Seguridad y Salud sustituye a la negociación colectiva.
-    - **Respuesta: a** · *LPRL; TREBEP; AC1922*
+150. Si en los informes médicos emitidos por el Departamento de Salud Laboral se recomienda al empleado municipal la realización de ejercicio físico:
+    - a) Se le concederá una reducción de jornada.
+    - b) Se le abonará una ayuda económica mensual.
+    - c) Se facilitará desde la Corporación la entrada gratuita a las instalaciones deportivas municipales.
+    - **Respuesta: c** · *AC1922, art. 45.6*
 
 ### Bloque 13 — Ampliación: principios, servicios de prevención y Capítulo IX (detalle)
 
@@ -952,65 +952,65 @@
     - c) Doce.
     - **Respuesta: b** · *LPRL, art. 15.1*
 
-152. Según el orden del art. 15.1 LPRL, ¿qué principio precede inmediatamente a "anteponer la protección colectiva a la individual"?
+152. Según el orden del art. 15.1 LPRL, ¿qué principio precede inmediatamente a «adoptar medidas que antepongan la protección colectiva a la individual»?
     - a) Planificar la prevención.
     - b) Evitar los riesgos.
     - c) Combatir los riesgos en su origen.
-    - **Respuesta: a** · *LPRL, art. 15.1 (g antes de h)*
+    - **Respuesta: a** · *LPRL, art. 15.1.g) y h)*
 
-153. La vigilancia de la salud del trabajador (art. 22 LPRL) es, como regla general:
-    - a) Obligatoria en todo caso.
-    - b) Voluntaria, salvo los supuestos tasados en que es obligatoria.
-    - c) Decidida libremente por el empresario.
-    - **Respuesta: b** · *LPRL, art. 22*
+153. La vigilancia de la salud del trabajador (art. 22.1 LPRL):
+    - a) Es obligatoria en todo caso.
+    - b) Sólo podrá llevarse a cabo cuando el trabajador preste su consentimiento, salvo los supuestos exceptuados.
+    - c) La decide libremente el empresario.
+    - **Respuesta: b** · *LPRL, art. 22.1*
 
-154. Respecto de los resultados de la vigilancia de la salud, al empresario se le comunica:
+154. Respecto de los reconocimientos efectuados en la vigilancia de la salud, el empresario será informado de:
     - a) El diagnóstico médico completo.
-    - b) Únicamente las conclusiones de aptitud para el desempeño del puesto.
+    - b) Las conclusiones que se deriven de los reconocimientos en relación con la aptitud del trabajador para el desempeño del puesto o con la necesidad de introducir o mejorar las medidas de protección y prevención.
     - c) El historial clínico del trabajador.
     - **Respuesta: b** · *LPRL, art. 22.4*
 
-155. El servicio de prevención propio es obligatorio, entre otros casos, en empresas de:
+155. El empresario deberá constituir un servicio de prevención propio, entre otros supuestos, en empresas que cuenten con:
     - a) Más de 500 trabajadores.
     - b) Más de 50 trabajadores.
     - c) Más de 250 trabajadores en todo caso.
-    - **Respuesta: a** · *RSP, art. 14*
+    - **Respuesta: a** · *RSP, art. 14.a)*
 
-156. ¿En qué supuesto puede el empresario asumir personalmente la actividad preventiva?
-    - a) En empresas de hasta 10 trabajadores (o hasta 25 con un único centro), actividad no peligrosa y presencia habitual en el centro.
-    - b) En cualquier empresa, sin límite de plantilla.
-    - c) Solo en empresas de más de 500 trabajadores.
-    - **Respuesta: a** · *RSP, art. 11*
+156. El empresario podrá desarrollar personalmente la actividad de prevención, con excepción de la vigilancia de la salud, cuando, entre otras circunstancias:
+    - a) Se trate de empresa de hasta diez trabajadores, o de hasta veinticinco con un único centro de trabajo, y las actividades no estén incluidas en el anexo I.
+    - b) Se trate de cualquier empresa, sin límite de plantilla.
+    - c) Se trate de empresas de más de 500 trabajadores.
+    - **Respuesta: a** · *RSP, art. 11.1*
 
-157. La vigilancia de la salud no puede ser asumida personalmente por el empresario porque:
-    - a) Es competencia exclusiva de la Inspección de Trabajo.
-    - b) Requiere personal sanitario (especialidad de Medicina del Trabajo).
-    - c) La realizan siempre los Delegados de Prevención.
-    - **Respuesta: b** · *RSP, art. 11; LPRL, art. 22*
+157. La vigilancia de la salud de los trabajadores, así como las actividades preventivas no asumidas personalmente por el empresario, deberán cubrirse:
+    - a) Exclusivamente por los Delegados de Prevención.
+    - b) Exclusivamente por la Inspección de Trabajo.
+    - c) Mediante el recurso a alguna de las restantes modalidades de organización preventiva.
+    - **Respuesta: c** · *RSP, art. 11.2*
 
-158. ¿Cuáles son las cuatro especialidades o disciplinas preventivas del art. 34 RD 39/1997?
-    - a) Seguridad, Higiene Industrial, Ergonomía y Psicosociología Aplicada y Medicina del Trabajo.
-    - b) Seguridad, Calidad, Medio Ambiente y Recursos Humanos.
-    - c) Prevención, Inspección, Auditoría y Formación.
-    - **Respuesta: a** · *RSP, art. 34*
+158. Los servicios de prevención mancomunados, tengan o no personalidad jurídica diferenciada, tendrán la consideración de:
+    - a) Servicios de prevención ajenos.
+    - b) Entidades públicas de prevención.
+    - c) Servicios propios de las empresas que los constituyan.
+    - **Respuesta: c** · *RSP, art. 21.3*
 
-159. El sistema de prevención del Ayuntamiento de Madrid se somete a auditoría o evaluación:
-    - a) Cada 4 años (cada 2 en actividades especialmente peligrosas).
-    - b) Cada 10 años.
+159. El sistema de prevención del Ayuntamiento de Madrid será sometido a control mediante auditorías o evaluaciones:
+    - a) Cada cuatro años, sin perjuicio de su realización cada dos años en actividades especialmente peligrosas.
+    - b) Cada diez años.
     - c) Solo cuando lo pida un Delegado de Prevención.
-    - **Respuesta: a** · *AC1922, art. 46*
+    - **Respuesta: a** · *AC1922, art. 46.6.1*
 
 160. Según el art. 47 del Acuerdo-Convenio, la financiación de la prevención se articula mediante:
     - a) Una partida única gestionada por el Comité de Seguridad y Salud.
-    - b) Un Fondo económico dotado en cada ejercicio, planificando cada Área/Distrito/OOAA a cargo de sus presupuestos.
+    - b) Un Fondo económico dotado en cada ejercicio presupuestario, planificando cada área de gobierno, distrito y organismo autónomo a cargo de sus presupuestos.
     - c) Aportaciones voluntarias de los empleados.
     - **Respuesta: b** · *AC1922, art. 47*
 
-161. En materia de protección de la maternidad (art. 49 AC), si no es posible adaptar las condiciones, tiempo o turno de trabajo, procede:
+161. Para garantizar la protección de la madre y el feto durante el embarazo, si no resulta posible adaptar las condiciones, el tiempo o el turno de trabajo, procede:
     - a) La extinción del contrato.
-    - b) El cambio temporal de funciones, previo informe del Servicio de Prevención.
+    - b) El cambio temporal de funciones, previo informe o recomendación del Servicio de Prevención.
     - c) No adoptar ninguna medida hasta el parto.
-    - **Respuesta: b** · *AC1922, art. 49*
+    - **Respuesta: b** · *AC1922, art. 49.1*
 
 162. Cuando la adscripción a un nuevo puesto por motivos de salud tiene carácter definitivo, el empleado municipal debe permanecer en él:
     - a) Seis meses.
@@ -1024,13 +1024,13 @@
     - c) Solo cuando se produzca un siniestro.
     - **Respuesta: a** · *AC1922, art. 51; LPRL, art. 20*
 
-164. En el Ayuntamiento de Madrid, los Delegados de Prevención (art. 48.4 AC):
+164. En el Ayuntamiento de Madrid, los delegados de prevención:
     - a) Se designan necesariamente solo entre los miembros de Juntas de Personal y Comités de Empresa.
-    - b) No se designan necesariamente entre los representantes del personal: también pueden designarlos las organizaciones sindicales con presencia en los órganos de representación.
+    - b) No serán necesariamente designados entre los representantes del personal con presencia en los órganos de representación: también pueden designarlos las organizaciones sindicales con presencia en ellos.
     - c) Los elige directamente toda la plantilla.
     - **Respuesta: b** · *AC1922, art. 48.4*
 
-165. La formación básica de los Delegados de Prevención del Ayuntamiento tenderá progresivamente a alcanzar:
+165. Durante la vigencia del Acuerdo-Convenio, se tenderá a que la oferta formativa amplíe el número de horas de las acciones de formación básica de los delegados de prevención hasta:
     - a) 20 horas.
     - b) 60 horas.
     - c) 200 horas.
@@ -1046,49 +1046,49 @@
 
 ## SECCIÓN PEDAGÓGICA — 20 PREGUNTAS COMENTADAS
 
-> Formato de estudio con explicación ampliada. No forman parte del banco de 150 cargado en el test interactivo.
+> Formato de estudio con explicación ampliada. No forman parte del banco de 165 cargado en el test interactivo.
 
-1. ¿Por qué se dice que el Delegado de Prevención es una representación "de segundo grado"?
-   - a) Porque lo nombra el empresario.
-   - b) Porque es designado por y entre los representantes del personal, no elegido directamente por los trabajadores.
-   - c) Porque tiene menos garantías que un Delegado de Personal.
-   - **Respuesta: b** · *LPRL, art. 35.1*
-   > **Explicación**: Los trabajadores eligen a sus representantes (Delegados de Personal / Comité de Empresa / Junta de Personal); son estos quienes, de entre ellos, designan a los Delegados de Prevención. De ahí el "segundo grado". Conserva todas las garantías del art. 68 ET.
+1. ¿Cómo se designan, con carácter general, los Delegados de Prevención?
+   - a) Los nombra el empresario.
+   - b) Por y entre los representantes del personal, en el ámbito de los órganos de representación.
+   - c) Por sorteo entre todos los trabajadores.
+   - **Respuesta: b** · *LPRL, art. 35.2*
+   > **Explicación**: El art. 35.2 LPRL dispone que los Delegados de Prevención serán designados por y entre los representantes del personal (Delegados de Personal, Comité de Empresa o Junta de Personal). El art. 35.4 permite que los convenios colectivos establezcan otros sistemas de designación, siempre que la facultad de designación corresponda a los representantes del personal o a los propios trabajadores.
 
-2. En un centro con 80 trabajadores, ¿cuántos Delegados de Prevención hay y se constituye Comité?
+2. ¿Cuántos Delegados de Prevención corresponden de 50 a 100 trabajadores y se constituye Comité de Seguridad y Salud?
    - a) 2 Delegados de Prevención y sí se constituye Comité de Seguridad y Salud.
    - b) 1 Delegado de Prevención y no hay Comité.
    - c) 3 Delegados de Prevención y no hay Comité.
    - **Respuesta: a** · *LPRL, arts. 35.2 y 38.2*
-   > **Explicación**: De 50 a 100 trabajadores corresponden 2 Delegados de Prevención (art. 35.2) y, al alcanzar 50, se constituye el Comité de Seguridad y Salud (art. 38.2), paritario: 2 delegados + 2 representantes del empresario.
+   > **Explicación**: De 50 a 100 trabajadores corresponden 2 Delegados de Prevención (art. 35.2) y, en las empresas o centros con 50 o más trabajadores, se constituye el Comité de Seguridad y Salud (art. 38.2), formado por los Delegados de Prevención y por el empresario y/o sus representantes en número igual.
 
-3. ¿Cuál es la diferencia entre "competencias" y "facultades" del Delegado de Prevención?
-   - a) No hay diferencia.
-   - b) Competencias son los objetivos/funciones (colaborar, promover, ser consultados, vigilar); facultades son los medios para cumplirlos (acompañar, acceder, ser informados, visitar).
-   - c) Las facultades son sanciones.
-   - **Respuesta: b** · *LPRL, art. 36*
-   > **Explicación**: El art. 36.1 enuncia las competencias; el art. 36.2, las facultades instrumentales para ejercerlas. Es una distinción muy preguntada.
+3. ¿En qué plazo deben elaborar los Delegados de Prevención los informes que emitan cuando son consultados por el empresario?
+   - a) En un mes.
+   - b) En quince días, o en el tiempo imprescindible cuando se trate de adoptar medidas dirigidas a prevenir riesgos inminentes.
+   - c) En cuarenta y ocho horas.
+   - **Respuesta: b** · *LPRL, art. 36.3*
+   > **Explicación**: El art. 36.3 fija el plazo de quince días para los informes de la consulta del art. 36.1.c). Transcurrido el plazo sin haberse emitido el informe, el empresario podrá poner en práctica su decisión.
 
 4. ¿Por debajo de 50 trabajadores quién ejerce las funciones del Comité de Seguridad y Salud?
    - a) Nadie.
    - b) La Inspección.
    - c) Los Delegados de Prevención.
-   - **Respuesta: c** · *LPRL, arts. 36 y 38.2*
-   > **Explicación**: Como no se constituye Comité, son los Delegados de Prevención quienes asumen la consulta y participación en PRL.
+   - **Respuesta: c** · *LPRL, art. 36.1*
+   > **Explicación**: Según el art. 36.1, en las empresas que no cuenten con Comité de Seguridad y Salud por no alcanzar el número mínimo de trabajadores (art. 38.2), las competencias atribuidas a aquél serán ejercidas por los Delegados de Prevención.
 
 5. El tiempo de las reuniones del Comité de Seguridad y Salud, ¿se descuenta del crédito horario?
    - a) Sí, siempre.
    - b) No: no se imputa al crédito horario.
    - c) Solo en el sector privado.
    - **Respuesta: b** · *LPRL, art. 37.1*
-   > **Explicación**: El art. 37.1 excluye expresamente del crédito el tiempo de las reuniones del Comité y de las visitas de acompañamiento a técnicos e inspectores (art. 36.2.a y c).
+   > **Explicación**: El art. 37.1 considera tiempo de trabajo efectivo, sin imputación al crédito horario, el de las reuniones del Comité de Seguridad y Salud y de cualesquiera otras convocadas por el empresario en materia de prevención, así como el destinado a las visitas del art. 36.2.a) y c).
 
 6. ¿Cada cuánto se reúne, como mínimo, el Comité de Seguridad y Salud?
    - a) Mensualmente.
    - b) Trimestralmente.
    - c) Semestralmente.
    - **Respuesta: b** · *LPRL, art. 38.3*
-   > **Explicación**: Reuniones trimestrales como mínimo y, además, cuando lo solicite alguna de las representaciones.
+   > **Explicación**: El art. 38.3 dispone que el Comité se reunirá trimestralmente y siempre que lo solicite alguna de las representaciones en el mismo.
 
 7. ¿Cuántos Delegados de Prevención tiene el IAM según el Acuerdo-Convenio?
    - a) 6.
@@ -1101,8 +1101,8 @@
    - a) 40 horas mensuales, adicional al general.
    - b) 15 horas mensuales.
    - c) Ninguno.
-   - **Respuesta: a** · *AC1922, art. 48*
-   > **Explicación**: El Acuerdo-Convenio mejora el mínimo legal con un crédito específico de 40 horas/mes para funciones preventivas.
+   - **Respuesta: a** · *AC1922, art. 48.6*
+   > **Explicación**: El art. 48.6 del Acuerdo-Convenio reconoce a cada delegado de prevención un crédito horario retribuido de 40 horas mensuales, complementario y adicional al que pudiera corresponderle como representante unitario o sindical.
 
 9. ¿El Comité de Seguridad y Salud del Ayuntamiento es uno por organismo?
    - a) Sí, uno por organismo.
@@ -1116,14 +1116,14 @@
     - b) El art. 156 CE.
     - c) El art. 31 CE.
     - **Respuesta: a** · *CE, art. 40.2*
-    > **Explicación**: El art. 40.2 CE ordena a los poderes públicos velar por la seguridad e higiene en el trabajo; es el anclaje constitucional de la LPRL.
+    > **Explicación**: El art. 40.2 CE dispone que los poderes públicos velarán por la seguridad e higiene en el trabajo. La exposición de motivos de la LPRL cita este mandato constitucional como soporte básico de la Ley.
 
 11. ¿Se aplica la LPRL a los funcionarios públicos?
     - a) No.
     - b) Sí, también a las relaciones administrativas y estatutarias.
     - c) Solo a los laborales.
     - **Respuesta: b** · *LPRL, art. 3.1*
-    > **Explicación**: El art. 3.1 extiende su aplicación a las relaciones de carácter administrativo o estatutario, con las particularidades que se establezcan.
+    > **Explicación**: El art. 3.1 extiende su aplicación a las relaciones de carácter administrativo o estatutario del personal al servicio de las Administraciones Públicas, con las peculiaridades que se contemplan en la Ley o en sus normas de desarrollo.
 
 12. ¿Cuál es el número máximo de Delegados de Prevención de la escala legal?
     - a) 8.
@@ -1132,40 +1132,40 @@
     - **Respuesta: a** · *LPRL, art. 35.2*
     > **Explicación**: Para 4.001 trabajadores en adelante, 8 Delegados de Prevención; es el tope de la escala.
 
-13. ¿Qué órgano negocia el Acuerdo-Convenio del Ayuntamiento de Madrid?
+13. ¿Qué órgano se constituye en cada entidad local para negociar las condiciones de trabajo comunes al personal funcionario, estatutario y laboral?
     - a) La Mesa General de Negociación.
     - b) El Pleno del Ayuntamiento.
     - c) La Junta Electoral.
-    - **Respuesta: a** · *TREBEP, art. 36; AC1922*
-    > **Explicación**: La negociación colectiva del empleo público municipal se desarrolla en la Mesa General de Negociación; sus frutos son Pactos y Acuerdos (art. 38 TREBEP).
+    - **Respuesta: a** · *TREBEP, art. 36.3*
+    > **Explicación**: El art. 36.3 TREBEP prevé una Mesa General de Negociación en cada entidad local para todas las materias y condiciones de trabajo comunes al personal funcionario, estatutario y laboral. En su seno pueden concertarse Pactos y Acuerdos (art. 38.1 TREBEP).
 
 14. ¿A partir de cuántos funcionarios se constituye Junta de Personal?
     - a) 50.
     - b) 25.
     - c) 100.
     - **Respuesta: a** · *TREBEP, art. 39.3*
-    > **Explicación**: Por debajo de 50 hay Delegados de Personal (1 hasta 30; 3 de 31 a 49); a partir de 50, Junta de Personal.
+    > **Explicación**: Las Juntas de Personal se constituyen en unidades electorales con un censo mínimo de 50 funcionarios (art. 39.3). Con 6 o más e inferior a 50 hay Delegados de Personal: 1 hasta 30 y 3 de 31 a 49 (art. 39.2).
 
-15. ¿Qué dos cifras definen el derecho de reunión del art. 46 TREBEP?
-    - a) 40 % y 48 horas.
-    - b) 50 % y 24 horas.
-    - c) 30 % y 72 horas.
-    - **Respuesta: a** · *TREBEP, art. 46*
-    > **Explicación**: Pueden convocar reuniones los empleados en número no inferior al 40 % del colectivo; el preaviso es de 48 horas.
+15. ¿Qué porcentaje mínimo del colectivo convocado deben representar los empleados públicos para estar legitimados para convocar una reunión?
+    - a) El 40 por 100.
+    - b) El 50 por 100.
+    - c) El 30 por 100.
+    - **Respuesta: a** · *TREBEP, art. 46.1.d)*
+    > **Explicación**: El art. 46.1 legitima para convocar una reunión, además de a las organizaciones sindicales, a los Delegados de Personal, las Juntas de Personal, los Comités de Empresa y los empleados públicos en número no inferior al 40 por 100 del colectivo convocado.
 
-16. ¿El Acuerdo-Convenio puede mejorar los mínimos de la LPRL?
-    - a) No, debe limitarse a reproducirlos.
-    - b) Sí: amplía garantías, número de delegados y crédito horario.
-    - c) Solo puede empeorarlos.
-    - **Respuesta: b** · *AC1922, Cap. IX*
-    > **Explicación**: La negociación colectiva opera como mejora de los mínimos legales (más delegados, 40 h de crédito, etc.).
+16. ¿Pueden los convenios colectivos mejorar las disposiciones de carácter laboral de la LPRL?
+    - a) No, deben limitarse a reproducirlas.
+    - b) Sí: tienen el carácter de Derecho necesario mínimo indisponible, pudiendo ser mejoradas y desarrolladas en los convenios colectivos.
+    - c) Solo pueden rebajarlas.
+    - **Respuesta: b** · *LPRL, art. 2.2*
+    > **Explicación**: El art. 2.2 LPRL dispone que las disposiciones de carácter laboral de la Ley y de sus normas reglamentarias tienen en todo caso el carácter de Derecho necesario mínimo indisponible, pudiendo ser mejoradas y desarrolladas en los convenios colectivos.
 
 17. ¿Qué modalidad de servicio de prevención tiene el Ayuntamiento de Madrid?
     - a) Servicio de prevención propio.
     - b) Solo mutua privada.
     - c) Ninguna.
-    - **Respuesta: a** · *AC1922, art. 46*
-    > **Explicación**: El Ayuntamiento dispone de Servicio de Prevención propio que da cobertura a sus organismos.
+    - **Respuesta: a** · *AC1922, art. 46.2*
+    > **Explicación**: Según el art. 46.2 del Acuerdo-Convenio, la organización de los recursos necesarios para las actividades preventivas en la Administración municipal se realizará en la modalidad de servicio de prevención propio.
 
 18. ¿Cuándo se aprobó el Plan de PRL del Ayuntamiento de Madrid?
     - a) Por Acuerdo de 26 de noviembre de 2020.
@@ -1185,5 +1185,5 @@
     - a) El Comité de Seguridad y Salud.
     - b) La Junta de Personal.
     - c) Ninguno.
-    - **Respuesta: a** · *LPRL, art. 38*
-    > **Explicación**: El Comité de Seguridad y Salud es paritario (igual número por cada parte). La Junta de Personal es un órgano solo de la parte funcionarial.
+    - **Respuesta: a** · *LPRL, art. 38.1*
+    > **Explicación**: El art. 38.1 LPRL define el Comité de Seguridad y Salud como el órgano paritario y colegiado de participación; el art. 38.2 lo forma con los Delegados de Prevención y con el empresario y/o sus representantes en número igual. La Junta de Personal es un órgano específico de representación de los funcionarios (art. 39.1 TREBEP).

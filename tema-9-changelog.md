@@ -4,6 +4,41 @@
 
 ---
 
+## v1.3 — 2026-10-01 — Revisión jurídica
+
+**Estado**: revisión jurídica aplicada; texto contrastado con el BOE consolidado (LPRL, RD 39/1997, TREBEP y ET, consulta 01/10/2026) y con el texto consolidado del Acuerdo-Convenio 2019-2022 del Ayuntamiento de Madrid (Capítulo IX y arts. 1, 3 y 4).
+
+### Cambios de la revisión
+
+- §2.1: eliminada la promesa «que constituyen el núcleo que más se pregunta en examen».
+- §2.2: eliminada la frase sobre el orden y la denominación «que se preguntan literalmente en examen»; la tabla de principios pasa a recoger el texto del art. 15.1 (letras a-i) sin la columna de valoraciones.
+- §2.2, caja «Dato clave»: eliminada la frase sobre «los dos principios más preguntados».
+- §7.2 «Las cuatro disciplinas o especialidades preventivas» eliminada entera (introducción, tabla y caja de formación/auditorías); el antiguo §7.3 pasa a ser §7.2. Se ajustan la introducción de §7, la fila [RSP] de Fuentes, el índice y las preguntas que dependían de ese epígrafe (158 sustituida).
+- §11.2 «Mapa de los conceptos esenciales» y §11.3 «Cómo estudiar este tema» eliminadas; la sección 11 pasa a titularse «La representación en el Ayuntamiento de Madrid». El diagrama D12 se mantiene, sin la «idea-fuerza» y anclado a §11.
+
+### Reglas generales
+
+- **Cajas**: «Dato clave examen» → «Dato clave»; «Cita constitucional» → «Cita normativa»; «Ejemplo Ayto Madrid» → «Ejemplo de aplicación en el Ayto»; «Referencia cruzada» → «Relación con otros temas» (HTML, `.md` y `build_t9.py`). La leyenda ya no promete aparición en el test oficial.
+- **Citas de artículos**: «artículo» completo cuando la cita forma parte de la oración (24 casos); los paréntesis de inciso se mantienen.
+- **Reflexiones fuera de las cajas** eliminadas o reducidas al precepto («La PRL no nace de la nada», «deber de medios, no de resultado», «La nota esencial es…», «Punto clásico de examen», «umbral mágico», «proyección especializada», etc.).
+- **Referencias al material de partida**: eliminadas la nota metodológica sobre el índice de partida, la tabla Tier 2 y la fila de trazabilidad asociada; el temario oficial BOAM 10.032 pasa a Tier 1.
+- **Correcciones normativas** contra el BOE y el Acuerdo-Convenio:
+  - art. 46 TREBEP: **no fija preaviso de 48 horas ni plazo de objeciones de 24 horas** (no existen apartados 46.3-46.5). Se sustituye por su texto: legitimados (46.1) y reuniones fuera de las horas de trabajo salvo acuerdo (46.2). Afecta a contenido §10.3, índice, fuentes, validación, D11, D12, caso 6 y preguntas 137, 140-142 y pedagógica 15.
+  - art. 40.1 TREBEP: funciones citadas de forma literal (el informe es sobre traslado de instalaciones y sistemas de organización; no sobre «planes de formación»; las estadísticas de absentismo no figuran en el art. 40).
+  - art. 41 TREBEP: garantías literales; la acumulación es entre miembros de la misma candidatura.
+  - art. 39 TREBEP: Delegados de Personal de 6 a 49 funcionarios; escala de la Junta en el 39.5; se elimina la «libre elección» atribuida al 39.1.
+  - art. 3.2 LPRL: exclusión de actividades «cuyas particularidades lo impidan», con la lista completa.
+  - art. 35 LPRL: la designación «por y entre» está en el 35.2 (no en el 35.1); se añade el 35.4 (otros sistemas de designación).
+  - art. 36.2 LPRL: añadidas las facultades f) y g) (también en D4) y el 36.4.
+  - art. 37.1 LPRL: el tiempo sin imputación al crédito es el del párrafo tercero e incluye las reuniones convocadas por el empresario.
+  - art. 29.3 LPRL y art. 22 LPRL: redacción literal.
+  - RSP: tabla de modalidades con los arts. 10-16 y 21; disp. adic. 4.ª para las Administraciones públicas.
+  - Acuerdo-Convenio: art. 48.4 (los delegados de prevención municipales no se designan necesariamente entre los representantes del personal) corregido en §11 y en el caso 6, donde se afirmaba lo contrario; art. 4.1 (prórroga tácita anual); se elimina la caja-resumen del Capítulo IX que atribuía al Acuerdo-Convenio una vigilancia de la salud «voluntaria».
+- **Test**: 165 preguntas mantenidas; 55 sustituidas por preguntas nuevas literales y 62 retocadas en texto o referencia para ajustarlas al literal (supuestos de aplicación, preguntas de opinión, de «idea-fuerza» o de contenido eliminado sustituidas por preguntas literales del mismo epígrafe); 48 se mantienen (16 de ellas solo con las opciones reordenadas para reequilibrar las respuestas correctas en el `.md`: 55/55/55). Pedagógicas 1-6, 8, 10, 11, 13-17 y 20 ajustadas.
+- **Casos prácticos** 1, 2, 3, 4, 5 y 6 y **diagramas** D2, D3, D4, D5, D10, D11 y D12 alineados con los cambios anteriores.
+
+---
+
 ## v1.2 — 2026-09-06 — Ficha de extensión y tiempo de estudio
 
 **Estado**: sin cambios de contenido. Solo se añade información sobre el propio tema.

@@ -26,23 +26,23 @@
 
 - [ ] El `tema-9-indice.md` refleja fielmente la estructura de `tema-9-contenido.md` (11 secciones).
 - [ ] Las secciones cubren: LPRL (marco/principios), Delegados de Prevención (designación, competencias, garantías), Comité de Seguridad y Salud, servicios de prevención, PRL en el Acuerdo-Convenio y representación de los empleados públicos (TREBEP/ET).
-- [ ] Los conceptos memorizables aparecen como `[DATO CLAVE EXAMEN]`.
-- [ ] Las reproducciones del articulado aparecen como `[CITA NORMATIVA]` / `[CITA CONSTITUCIONAL]`.
-- [ ] Los datos del Ayto de Madrid / IAM están marcados como `[EJEMPLO AYTO MADRID]`.
+- [ ] Los datos concretos de la norma aparecen en cajas «Dato clave».
+- [ ] Las reproducciones del articulado aparecen en cajas «Cita normativa».
+- [ ] Los datos del Ayto de Madrid / IAM aparecen en cajas «Ejemplo de aplicación en el Ayto».
 
 ## 3. Rigor jurídico (datos sensibles)
 
 - [ ] Fundamento constitucional: **art. 40.2 CE** (no confundir con el art. 43 —salud— ni el 35.1 —derecho al trabajo—).
 - [ ] Origen comunitario: **Directiva 89/391/CEE** (Directiva Marco).
-- [ ] Delegados de Prevención: **designados por y entre** los representantes del personal (art. 35.1); representación de segundo grado.
+- [ ] Delegados de Prevención: **designados por y entre** los representantes del personal (art. 35.2), salvo otros sistemas de designación (art. 35.4).
 - [ ] Escala del art. 35.2: **hasta 30 → Delegado de Personal; 31-49 → 1; 50-100 → 2; … 4.001 en adelante → 8** (máximo).
 - [ ] Competencias (art. 36.1) vs. facultades (art. 36.2): no intercambiarlas. Plazo de informe en consulta: **15 días** (art. 36.3).
 - [ ] Garantías: **art. 68 ET** (remisión del art. 37.1); **sigilo profesional** (art. 37.3). El tiempo de reuniones del Comité y visitas de acompañamiento **no se imputa** al crédito (art. 37.1).
 - [ ] Comité de Seguridad y Salud: **paritario y colegiado** (art. 38.1); umbral **50** (art. 38.2); **trimestral** (art. 38.3); competencias del art. 39.
-- [ ] Servicios de prevención: asunción por el empresario, trabajador designado, propio, ajeno y mancomunado (arts. 30-31).
+- [ ] Servicios de prevención: asunción por el empresario, trabajador designado, propio, ajeno (art. 30 LPRL; art. 10 RSP) y mancomunado (art. 21 RSP).
 - [ ] **Acuerdo-Convenio**: **83 Delegados de Prevención** (Ayto 56, Empleo 4, Tributaria 7, **IAM 6**, Madrid Salud 7, Actividades 3); **Comité único 15+15**; **crédito 40 h/mes** adicional [art. 48]. Plan de PRL: **Acuerdo de 26/11/2020** (BOAM 8783).
-- [ ] **TREBEP**: Delegados de Personal (**1** hasta 30, **3** de 31 a 49) y Junta de Personal (≥50) [art. 39]; garantías [art. 41]; reunión: **40 %** y **48 h** [art. 46].
-- [ ] **ET**: Delegados de Personal (6-49) y Comité de Empresa (≥50) [arts. 62-63].
+- [ ] **TREBEP**: Delegados de Personal (**1** hasta 30, **3** de 31 a 49) y Junta de Personal (≥50) [art. 39]; garantías [art. 41]; reunión: legitimación del **40 %** y reuniones fuera de las horas de trabajo salvo acuerdo [art. 46].
+- [ ] **ET**: Delegados de Personal (más de 10 y menos de 50; de 6 a 10 si lo deciden por mayoría) y Comité de Empresa (≥50) [arts. 62-63].
 
 ## 4. Diagramas SVG
 
@@ -68,7 +68,7 @@
 ## 7. Nivel y adecuación al C1
 
 - [ ] Nivel de profundidad adecuado para C1.
-- [ ] Se priorizan los datos memorísticos (escalas, umbrales, plazos, crédito horario).
+- [ ] Se recogen los datos concretos de la norma (escalas, umbrales, plazos, crédito horario).
 
 ## 8. Entregables HTML
 
@@ -88,10 +88,9 @@
 
 ### Decisiones conscientes que conviene confirmar
 
-1. **Punto 5.3 del índice del cliente — "Comisión Paritaria de Seguridad y Salud"**: el texto del Acuerdo-Convenio **no contempla un órgano con ese nombre específico**. El órgano real de participación en PRL es el **Comité de Seguridad y Salud único y paritario (15+15)** del art. 48, y el seguimiento general del Acuerdo-Convenio corresponde a la **Comisión de Seguimiento/Paritaria del propio Acuerdo-Convenio** (no específica de PRL). → Confirmar con Jesús / María si se mantiene el desarrollo del Comité único como órgano central (recomendado) o se desea un epígrafe específico sobre la Comisión de Seguimiento.
-2. **Datos del Acuerdo-Convenio verificados en fuente oficial** (art. 48, transparencia.madrid.es): 83 delegados, reparto por organismo (IAM 6), Comité único 15+15 y crédito de 40 h/mes. → Confirmar que el texto en vigor sigue siendo el 2019-2022 prorrogado en la fecha de la convocatoria.
-3. **Estructura del Capítulo IX** (arts. 45-52) tomada del sumario oficial. → Confirmar que el enunciado del examen no exige el detalle literal de los arts. 49-52 (adaptaciones, edificios, autoprotección, medio ambiente), aquí tratados como referencia.
-4. **165 preguntas + 20 pedagógicas + 6 casos + 12 diagramas + 8 pestañas**, replicando el formato de los Temas 1-8.
+1. **Datos del Acuerdo-Convenio verificados en fuente oficial** (art. 48, transparencia.madrid.es): 83 delegados, reparto por organismo (IAM 6), Comité único 15+15 y crédito de 40 h/mes. → Confirmar que el texto en vigor sigue siendo el 2019-2022 prorrogado en la fecha de la convocatoria.
+2. **Estructura del Capítulo IX** (arts. 45-52) tomada del sumario oficial. → Confirmar que el enunciado del tema no exige el detalle literal de los arts. 49-52 (adaptaciones, edificios, autoprotección, medio ambiente), aquí tratados como referencia.
+3. **165 preguntas + 20 pedagógicas + 6 casos + 12 diagramas + 8 pestañas**, replicando el formato de los Temas 1-8.
 
 ### Puntos a vigilar (datos volátiles)
 

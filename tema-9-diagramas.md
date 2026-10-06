@@ -24,7 +24,7 @@
 | D9  | Los 83 Delegados de Prevención del Ayto de Madrid      | § 8     | Barras |
 | D10 | Representación: funcionarios vs. laborales (umbral 50) | § 9     | Comparativa |
 | D11 | El derecho de reunión (art. 46 TREBEP)                 | § 10    | Flujo |
-| D12 | Mapa-resumen del Tema 9                                 | § 11    | Mapa conceptual |
+| D12 | Mapa de integración del Tema 9                          | § 11    | Mapa conceptual |
 
 ---
 
@@ -69,7 +69,7 @@
 ## D2 · Los principios de la acción preventiva (art. 15)
 
 **Sección**: § 2 — Principios de la acción preventiva
-**Propósito**: Enumerar los nueve principios del art. 15.1 LPRL y destacar los más preguntados.
+**Propósito**: Enumerar los nueve principios del art. 15.1 LPRL en su orden legal.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" role="img" aria-label="Los nueve principios de la acción preventiva del artículo 15: evitar riesgos, evaluar los no evitables, combatir en origen, adaptar el trabajo a la persona, evolución técnica, sustituir lo peligroso, planificar, anteponer la protección colectiva a la individual y dar instrucciones">
@@ -109,7 +109,7 @@
 ## D3 · Escala de Delegados de Prevención (art. 35.2)
 
 **Sección**: § 3 — Delegados de Prevención: designación
-**Propósito**: Memorizar la escala que relaciona el número de trabajadores con el de Delegados de Prevención.
+**Propósito**: Escala que relaciona el número de trabajadores con el de Delegados de Prevención.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" role="img" aria-label="Escala del artículo 35.2: hasta 30 trabajadores el Delegado de Personal; de 31 a 49 uno; de 50 a 100 dos; de 101 a 500 tres; de 501 a 1000 cuatro; de 1001 a 2000 cinco; de 2001 a 3000 seis; de 3001 a 4000 siete; de 4001 en adelante ocho">
@@ -144,7 +144,7 @@
     <rect x="60" y="308" width="430" height="30" fill="#fdeaea" stroke="#f3cccc"/><text x="72" y="328" style="font-weight:700">De 4.001 en adelante (máximo)</text>
     <rect x="490" y="308" width="150" height="30" fill="#fdeaea" stroke="#f3cccc"/><text x="565" y="328" class="n" style="fill:#d13c3c">8</text>
   </g>
-  <text x="350" y="360" class="t" style="text-anchor:middle;fill:#555">Designados por y entre los representantes del personal (art. 35.1)</text>
+  <text x="350" y="360" class="t" style="text-anchor:middle;fill:#555">Designados por y entre los representantes del personal (art. 35.2)</text>
 </svg>
 ```
 
@@ -156,7 +156,7 @@
 **Propósito**: Separar las competencias (qué hacen) de las facultades (con qué medios).
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 340" role="img" aria-label="Competencias del artículo 36.1: colaborar, promover, ser consultados y vigilar. Facultades del 36.2: acompañar, acceder a información, ser informados, recibir información y realizar visitas">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 340" role="img" aria-label="Competencias del artículo 36.1: colaborar, promover, ser consultados y vigilar. Facultades del 36.2: acompañar, acceder a información, ser informados, recibir información, realizar visitas, recabar medidas y proponer la paralización">
   <style>
     .h{font:700 14px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a}
@@ -175,11 +175,13 @@
   <rect x="360" y="22" width="310" height="288" rx="10" fill="#e8f5ee" stroke="#2d8659"/>
   <rect x="360" y="22" width="310" height="34" rx="10" fill="#2d8659"/>
   <text x="515" y="44" class="h">FACULTADES (art. 36.2)</text>
-  <text x="378" y="84" class="t">• Acompañar a técnicos e Inspección</text>
-  <text x="378" y="120" class="t">• Acceder a información y documentación</text>
-  <text x="378" y="156" class="t">• Ser informados de los daños en la salud</text>
-  <text x="378" y="192" class="t">• Recibir información de organismos</text>
-  <text x="378" y="228" class="t">• Realizar visitas a los lugares de trabajo</text>
+  <text x="378" y="80" class="t">• Acompañar a técnicos e Inspección</text>
+  <text x="378" y="106" class="t">• Acceder a información y documentación</text>
+  <text x="378" y="132" class="t">• Ser informados de los daños en la salud</text>
+  <text x="378" y="158" class="t">• Recibir información de organismos</text>
+  <text x="378" y="184" class="t">• Realizar visitas a los lugares de trabajo</text>
+  <text x="378" y="210" class="t">• Recabar medidas preventivas</text>
+  <text x="378" y="236" class="t">• Proponer la paralización (art. 21.3)</text>
   <text x="515" y="278" class="t" style="text-anchor:middle;fill:#555">Plazo de informe en consulta: 15 días (art. 36.3)</text>
 </svg>
 ```
@@ -212,7 +214,7 @@
   <text x="386" y="104" class="t" style="font-weight:700">Sigilo profesional</text>
   <text x="386" y="128" class="t">sobre las informaciones reservadas</text>
   <text x="386" y="152" class="t">a las que acceda (art. 65.2 ET);</text>
-  <text x="386" y="176" class="t">subsiste tras el mandato</text>
+  <text x="386" y="176" class="t">(art. 37.3 LPRL)</text>
   <rect x="40" y="208" width="620" height="68" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="350" y="232" class="t" style="text-anchor:middle;font-weight:700;fill:#b5740f">NO se imputan al crédito horario:</text>
   <text x="350" y="254" class="t" style="text-anchor:middle">reuniones del Comité + visitas de acompañamiento (art. 36.2.a y c)</text>
@@ -397,7 +399,7 @@
   <rect x="50" y="146" width="270" height="64" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
   <text x="185" y="168" class="t" style="font-weight:700">≥ 50: Junta de Personal</text>
   <text x="185" y="188" class="s">composición por tramos (máx. 75)</text>
-  <text x="185" y="204" class="s">art. 39.3-4</text>
+  <text x="185" y="204" class="s">art. 39.3 y 39.5</text>
   <rect x="360" y="22" width="310" height="210" rx="10" fill="#f5f8fc" stroke="#0055a0"/>
   <rect x="360" y="22" width="310" height="32" rx="10" fill="#0055a0"/>
   <text x="515" y="44" class="h">LABORALES (ET)</text>
@@ -419,10 +421,10 @@
 ## D11 · El derecho de reunión (art. 46 TREBEP)
 
 **Sección**: § 10 — Competencias, garantías y derecho de reunión
-**Propósito**: Memorizar el 40 % de legitimación y las 48 horas de preaviso.
+**Propósito**: Quiénes pueden convocar una reunión y en qué horario se autoriza en el centro de trabajo (art. 46 TREBEP).
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 280" role="img" aria-label="Derecho de reunión del artículo 46: están legitimados las organizaciones sindicales, los Delegados y Juntas de Personal y los empleados en número no inferior al 40 por ciento; el preaviso es de 48 horas y, si no hay objeciones, la reunión se celebra">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 280" role="img" aria-label="Derecho de reunión del artículo 46: están legitimados las organizaciones sindicales, los Delegados y Juntas de Personal, los Comités de Empresa y los empleados en número no inferior al 40 por ciento del colectivo convocado; las reuniones en el centro de trabajo se autorizan fuera de las horas de trabajo, salvo acuerdo">
   <style>
     .h{font:700 14px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -436,26 +438,27 @@
   <text x="190" y="128" class="s">Organizaciones sindicales</text>
   <text x="190" y="148" class="s">Delegados / Juntas de Personal y Comités</text>
   <text x="190" y="176" class="big">≥ 40 %</text>
-  <text x="190" y="194" class="s">empleados del colectivo</text>
+  <text x="190" y="194" class="s">empleados del colectivo convocado (46.1)</text>
   <rect x="360" y="80" width="300" height="120" rx="10" fill="#e8f5ee" stroke="#2d8659"/>
-  <text x="510" y="104" class="t" style="font-weight:700">Preaviso</text>
-  <text x="510" y="146" class="big" style="fill:#2d8659">48 h</text>
-  <text x="510" y="170" class="s">indicando lugar, hora, orden del día</text>
-  <text x="510" y="188" class="s">y datos de los convocantes</text>
+  <text x="510" y="104" class="t" style="font-weight:700">Reuniones en el centro de trabajo</text>
+  <text x="510" y="140" class="t" style="font-weight:700;fill:#2d8659">Fuera de las horas de trabajo</text>
+  <text x="510" y="166" class="s">salvo acuerdo entre el órgano de personal</text>
+  <text x="510" y="184" class="s">y los legitimados para convocar (46.2)</text>
   <rect x="120" y="216" width="460" height="48" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="350" y="245" class="t" style="font-weight:700;fill:#b5740f">Si no hay objeciones en plazo, la reunión se celebra</text>
+  <text x="350" y="236" class="t" style="font-weight:700;fill:#b5740f">No perjudicará la prestación de los servicios</text>
+  <text x="350" y="254" class="s">los convocantes son responsables de su normal desarrollo (46.2)</text>
 </svg>
 ```
 
 ---
 
-## D12 · Mapa-resumen del Tema 9
+## D12 · Mapa de integración del Tema 9
 
-**Sección**: § 11 — Resumen
-**Propósito**: Integrar en un solo mapa la LPRL, el Acuerdo-Convenio y la representación TREBEP/ET.
+**Sección**: § 11 — La representación en el Ayuntamiento de Madrid
+**Propósito**: Situar en un solo esquema la LPRL, la representación TREBEP/ET y el Acuerdo-Convenio.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" role="img" aria-label="Mapa resumen: la LPRL regula Delegados de Prevención y Comité de Seguridad y Salud; el TREBEP y el Estatuto de los Trabajadores regulan la representación general; el Acuerdo-Convenio del Ayuntamiento de Madrid mejora ambos con 83 delegados, Comité único 15 más 15 y crédito de 40 horas">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" role="img" aria-label="Mapa resumen: la LPRL regula Delegados de Prevención y Comité de Seguridad y Salud; el TREBEP y el Estatuto de los Trabajadores regulan la representación general; el Acuerdo-Convenio del Ayuntamiento de Madrid mejora ambos con 83 delegados, Comité único 15 más 15 y crédito de 40 horas; los convenios colectivos pueden mejorar y desarrollar la LPRL (artículo 2.2)">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:11px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -475,7 +478,7 @@
   <text x="520" y="61" class="h">TREBEP / ET — general</text>
   <text x="520" y="92" class="t">Delegados y Juntas de Personal (art. 39)</text>
   <text x="520" y="112" class="s">umbral 50 · Comité de Empresa (laborales)</text>
-  <text x="520" y="138" class="t">Garantías (41) · Reunión (46): 40 % y 48 h</text>
+  <text x="520" y="138" class="t">Garantías (41) · Reunión (46): 40 %</text>
   <text x="520" y="154" class="s">negociación: Mesas y Acuerdos (36, 38)</text>
   <line x1="180" y1="162" x2="350" y2="196" stroke="#2d8659" stroke-width="1.5"/>
   <line x1="520" y1="162" x2="350" y2="196" stroke="#2d8659" stroke-width="1.5"/>
@@ -485,8 +488,8 @@
   <text x="350" y="244" class="t">mejora los mínimos: 83 Delegados de Prevención (IAM 6)</text>
   <text x="350" y="263" class="t">Comité único 15 + 15 · crédito 40 h/mes · Plan de PRL (2020)</text>
   <rect x="160" y="298" width="380" height="46" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="350" y="320" class="t" style="font-weight:700;fill:#b5740f">Idea-fuerza</text>
-  <text x="350" y="337" class="s">la representación preventiva es una proyección especializada de la general</text>
+  <text x="350" y="320" class="t" style="font-weight:700;fill:#b5740f">Art. 2.2 LPRL</text>
+  <text x="350" y="337" class="s">sus disposiciones pueden mejorarse y desarrollarse en convenio colectivo</text>
 </svg>
 ```
 
