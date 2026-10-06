@@ -35,11 +35,11 @@ El Tema 9 combina **tres corpus normativos** que conviene no mezclar:
 
 ### Esquema de referencia para el contenido
 
-- **LPRL**: `[LPRL, art. X]` o `[LPRL, art. X.Y]` — p. ej. `[LPRL, art. 35.2]`
-- **Constitución**: `[CE, art. 40.2]`
-- **TREBEP**: `[TREBEP, art. 39]`
-- **Estatuto de los Trabajadores**: `[ET, art. 62]`
-- **Acuerdo-Convenio Ayto Madrid**: `[AC1922, art. 48]`
+- **LPRL**: `(art. X LPRL)` o `(art. X.Y LPRL)` — p. ej. `(art. 35.2 LPRL)`
+- **Constitución**: `(art. 40.2 CE)`
+- **TREBEP**: `(art. 39 TREBEP)`
+- **Estatuto de los Trabajadores**: `(art. 62 ET)`
+- **Acuerdo-Convenio Ayto Madrid**: `(art. 48 Acuerdo-Convenio)`
 
 ---
 
@@ -52,7 +52,7 @@ El Tema 9 combina **tres corpus normativos** que conviene no mezclar:
 
 ## Normas de citación en el contenido
 
-1. Toda afirmación que reproduzca el articulado de la LPRL va acompañada de `[LPRL, art. X]`.
+1. Toda afirmación que reproduzca el articulado de la LPRL va acompañada de `(art. X LPRL)`.
 2. Los datos concretos de la norma (escalas, umbrales, porcentajes, plazos, crédito horario) se marcan con la caja «Dato clave».
 3. Las reproducciones literales o paráfrasis cercanas del articulado, incluida la Constitución, se marcan con la caja «Cita normativa».
 4. La aplicación al Ayuntamiento de Madrid (Acuerdo-Convenio, IAM) se marca con la caja «Ejemplo de aplicación en el Ayto».
@@ -65,11 +65,11 @@ El Tema 9 combina **tres corpus normativos** que conviene no mezclar:
 Las siguientes cifras se han **contrastado** antes de la redacción:
 
 **LPRL (texto consolidado BOE):**
-- Delegados de Prevención: **designados por y entre los representantes del personal** [art. 35.2].
-- Escala de designación [art. 35.2]: **hasta 30 trabajadores → el Delegado de Personal**; **de 31 a 49 → 1**; de 50 a 100 → 2; de 101 a 500 → 3; de 501 a 1.000 → 4; de 1.001 a 2.000 → 5; de 2.001 a 3.000 → 6; de 3.001 a 4.000 → 7; **de 4.001 en adelante → 8**.
-- Comité de Seguridad y Salud: **órgano paritario y colegiado**, se constituye en empresas o centros con **50 o más trabajadores** [art. 38.2]; se reúne **trimestralmente** [art. 38.3].
-- Garantías de los Delegados de Prevención: las del **art. 68 ET** (por remisión del art. 37.1 LPRL); **sigilo profesional** [art. 37.3].
-- Servicios de prevención (modalidades): **asunción por el empresario**, **trabajador designado**, **servicio de prevención propio**, **servicio de prevención ajeno** [art. 30; RSP, art. 10]; **mancomunado** [RSP, art. 21].
+- Delegados de Prevención: **designados por y entre los representantes del personal** (art. 35.2).
+- Escala de designación (art. 35.2): **hasta 30 trabajadores → el Delegado de Personal**; **de 31 a 49 → 1**; de 50 a 100 → 2; de 101 a 500 → 3; de 501 a 1.000 → 4; de 1.001 a 2.000 → 5; de 2.001 a 3.000 → 6; de 3.001 a 4.000 → 7; **de 4.001 en adelante → 8**.
+- Comité de Seguridad y Salud: **órgano paritario y colegiado**, se constituye en empresas o centros con **50 o más trabajadores** (art. 38.2); se reúne **trimestralmente** (art. 38.3).
+- Garantías de los Delegados de Prevención: las del **art. 68 ET** (por remisión del art. 37.1 LPRL); **sigilo profesional** (art. 37.3).
+- Servicios de prevención (modalidades): **asunción por el empresario**, **trabajador designado**, **servicio de prevención propio**, **servicio de prevención ajeno** (art. 30; art. 10 RSP); **mancomunado** (art. 21 RSP).
 
 **Acuerdo-Convenio 2019-2022 del Ayuntamiento de Madrid (art. 48, fuente: transparencia.madrid.es):**
 - **83 Delegados de Prevención** en total, repartidos: **Ayuntamiento de Madrid 56 · Agencia para el Empleo 4 · Agencia Tributaria Madrid 7 · Informática del Ayuntamiento de Madrid (IAM) 6 · Madrid Salud 7 · Agencia de Actividades 3**.
@@ -79,9 +79,9 @@ Las siguientes cifras se han **contrastado** antes de la redacción:
 - Capítulo IX, arts. **45 (Salud laboral)**, **46 (Servicio de prevención)**, **47 (Recursos económicos)**, **48 (Representación del personal municipal)**, **49 (Adaptaciones de puesto)**, **50 (Edificios e instalaciones)**, **51 (Planes de autoprotección)**, **52 (Medio ambiente)**.
 
 **TREBEP (texto consolidado BOE):**
-- Delegados de Personal en unidades electorales con **6 o más e inferior a 50** funcionarios: **1 (hasta 30)** y **3 (de 31 a 49)** [art. 39.2].
-- Juntas de Personal en unidades electorales con un censo mínimo de **50** funcionarios [art. 39.3]; composición por tramos, máximo 75 [art. 39.5].
-- Derecho de reunión: legitimados, entre otros, los empleados públicos en número **no inferior al 40 %** del colectivo convocado [art. 46.1]; las reuniones en el centro de trabajo se autorizan **fuera de las horas de trabajo**, salvo acuerdo [art. 46.2]. El art. 46 TREBEP no fija plazo de preaviso.
+- Delegados de Personal en unidades electorales con **6 o más e inferior a 50** funcionarios: **1 (hasta 30)** y **3 (de 31 a 49)** (art. 39.2).
+- Juntas de Personal en unidades electorales con un censo mínimo de **50** funcionarios (art. 39.3); composición por tramos, máximo 75 (art. 39.5).
+- Derecho de reunión: legitimados, entre otros, los empleados públicos en número **no inferior al 40 %** del colectivo convocado (art. 46.1); las reuniones en el centro de trabajo se autorizan **fuera de las horas de trabajo**, salvo acuerdo (art. 46.2). El art. 46 TREBEP no fija plazo de preaviso.
 
 ---
 

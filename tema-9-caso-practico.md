@@ -30,10 +30,10 @@
 
 **Solución orientativa**:
 
-1. **2 Delegados de Prevención**: el tramo de 50 a 100 trabajadores corresponde a 2 [LPRL, art. 35.2].
-2. **Por y entre los representantes del personal** (Delegados de Personal / Comité de Empresa / Junta de Personal), en el ámbito de los órganos de representación [LPRL, art. 35.2], salvo que los convenios colectivos establezcan otros sistemas de designación [LPRL, art. 35.4].
-3. **Sí**: al alcanzar 50 o más trabajadores se constituye el Comité de Seguridad y Salud [LPRL, art. 38.2], **paritario**: los 2 Delegados de Prevención + 2 representantes del empresario.
-4. Con 28 trabajadores (hasta 30), el **Delegado de Personal** sería, a su vez, el Delegado de Prevención [LPRL, art. 35.2].
+1. **2 Delegados de Prevención**: el tramo de 50 a 100 trabajadores corresponde a 2 (art. 35.2 LPRL).
+2. **Por y entre los representantes del personal** (Delegados de Personal / Comité de Empresa / Junta de Personal), en el ámbito de los órganos de representación (art. 35.2 LPRL), salvo que los convenios colectivos establezcan otros sistemas de designación (art. 35.4 LPRL).
+3. **Sí**: al alcanzar 50 o más trabajadores se constituye el Comité de Seguridad y Salud (art. 38.2 LPRL), **paritario**: los 2 Delegados de Prevención + 2 representantes del empresario.
+4. Con 28 trabajadores (hasta 30), el **Delegado de Personal** sería, a su vez, el Delegado de Prevención (art. 35.2 LPRL).
 
 **Criterios de evaluación**: aplicar correctamente la escala del artículo 35.2; explicar la designación por y entre los representantes del personal; identificar el umbral de 50 y la paridad del Comité.
 
@@ -52,9 +52,9 @@
 
 **Solución orientativa**:
 
-1. Es un órgano **paritario y colegiado** de participación [LPRL, art. 38.1]. Con 120 trabajadores corresponden **3 Delegados de Prevención** (tramo 101-500, art. 35.2), de modo que la parte social tiene 3 miembros y la Administración otros **3** (paridad) [LPRL, art. 38.2].
-2. Se reúne **trimestralmente** y, además, siempre que lo solicite alguna de las representaciones [LPRL, art. 38.3].
-3. Sí: participan **con voz pero sin voto** los **Delegados Sindicales** y los **responsables técnicos de la prevención** en la empresa no incluidos en el Comité; en las mismas condiciones pueden participar trabajadores con especial cualificación o información sobre las cuestiones que se debatan y técnicos en prevención ajenos a la empresa, siempre que lo solicite alguna de las representaciones [LPRL, art. 38.2].
+1. Es un órgano **paritario y colegiado** de participación (art. 38.1 LPRL). Con 120 trabajadores corresponden **3 Delegados de Prevención** (tramo 101-500, art. 35.2), de modo que la parte social tiene 3 miembros y la Administración otros **3** (paridad) (art. 38.2 LPRL).
+2. Se reúne **trimestralmente** y, además, siempre que lo solicite alguna de las representaciones (art. 38.3 LPRL).
+3. Sí: participan **con voz pero sin voto** los **Delegados Sindicales** y los **responsables técnicos de la prevención** en la empresa no incluidos en el Comité; en las mismas condiciones pueden participar trabajadores con especial cualificación o información sobre las cuestiones que se debatan y técnicos en prevención ajenos a la empresa, siempre que lo solicite alguna de las representaciones (art. 38.2 LPRL).
 4. Dos de las del artículo 39: **participar en la elaboración, puesta en práctica y evaluación de los planes y programas de prevención** y **promover iniciativas** de prevención; además, conocer la situación de PRL e informar la memoria anual.
 
 **Criterios de evaluación**: definir la paridad; vincular el número de delegados con la escala; recordar la periodicidad trimestral; distinguir asistentes con voz pero sin voto; citar competencias del artículo 39.
@@ -74,10 +74,10 @@
 
 **Solución orientativa**:
 
-1. **No procede**: el tiempo de las **reuniones del Comité** y de las **visitas** previstas en el artículo 36.2.a) y c) se considera tiempo de trabajo efectivo **sin imputación** al crédito horario [LPRL, art. 37.1].
+1. **No procede**: el tiempo de las **reuniones del Comité** y de las **visitas** previstas en el artículo 36.2.a) y c) se considera tiempo de trabajo efectivo **sin imputación** al crédito horario (art. 37.1 LPRL).
 2. Las garantías del **artículo 68 ET** por remisión del artículo 37.1 LPRL: apertura de **expediente contradictorio** ante sanciones por faltas graves o muy graves, **prioridad de permanencia**, no ser despedido ni sancionado durante el ejercicio de sus funciones ni dentro del año siguiente a la expiración de su mandato, **no discriminación** en su promoción y libertad de expresión.
-3. El **deber de sigilo profesional** respecto de las informaciones a que tenga acceso como consecuencia de su actuación [LPRL, art. 37.3; ET, art. 65.2]. Para los miembros del comité de empresa, el artículo 65.3 ET dispone que ese deber subsiste incluso tras la expiración de su mandato.
-4. **Sí**: la formación en materia preventiva se considera **tiempo de trabajo** a todos los efectos y la facilita el empresario [LPRL, art. 37.2].
+3. El **deber de sigilo profesional** respecto de las informaciones a que tenga acceso como consecuencia de su actuación (art. 37.3 LPRL; art. 65.2 ET). Para los miembros del comité de empresa, el artículo 65.3 ET dispone que ese deber subsiste incluso tras la expiración de su mandato.
+4. **Sí**: la formación en materia preventiva se considera **tiempo de trabajo** a todos los efectos y la facilita el empresario (art. 37.2 LPRL).
 
 **Criterios de evaluación**: aplicar la exclusión del crédito; enumerar garantías del artículo 68 ET; identificar el sigilo; reconocer la formación como tiempo de trabajo.
 
@@ -96,9 +96,9 @@
 
 **Solución orientativa**:
 
-1. El IAM tiene **6 Delegados de Prevención**; en el conjunto del Ayuntamiento y sus Organismos Autónomos hay **83** (Ayuntamiento 56, Agencia para el Empleo 4, Agencia Tributaria 7, IAM 6, Madrid Salud 7, Agencia de Actividades 3) [AC1922, art. 48].
-2. Es un Comité **único y paritario**: **15 Delegados de Prevención** (designados proporcionalmente) + **15 representantes de la Administración** [AC1922, art. 48].
-3. **40 horas mensuales** retribuidas por delegado, **complementarias y adicionales** a las que pudieran corresponderle como representante unitario o sindical; el tiempo de reuniones del Comité y de las visitas del artículo 36.2.a) y c) LPRL es tiempo de trabajo efectivo sin imputación al crédito [AC1922, art. 48.6].
+1. El IAM tiene **6 Delegados de Prevención**; en el conjunto del Ayuntamiento y sus Organismos Autónomos hay **83** (Ayuntamiento 56, Agencia para el Empleo 4, Agencia Tributaria 7, IAM 6, Madrid Salud 7, Agencia de Actividades 3) (art. 48 Acuerdo-Convenio).
+2. Es un Comité **único y paritario**: **15 Delegados de Prevención** (designados proporcionalmente) + **15 representantes de la Administración** (art. 48 Acuerdo-Convenio).
+3. **40 horas mensuales** retribuidas por delegado, **complementarias y adicionales** a las que pudieran corresponderle como representante unitario o sindical; el tiempo de reuniones del Comité y de las visitas del artículo 36.2.a) y c) LPRL es tiempo de trabajo efectivo sin imputación al crédito (art. 48.6 Acuerdo-Convenio).
 4. El **Plan de Prevención de Riesgos Laborales del Ayuntamiento de Madrid**, aprobado por **Acuerdo de 26 de noviembre de 2020** de la Junta de Gobierno (BOAM 8783) [PLAN-PRL].
 
 **Criterios de evaluación**: manejar las cifras del artículo 48 (83 / IAM 6 / 15+15 / 40 h); identificar el carácter único del Comité; citar el Plan de PRL de 2020.
@@ -118,8 +118,8 @@
 
 **Solución orientativa**:
 
-1. La unidad de **44** funcionarios (6 o más e inferior a 50) tiene **Delegados de Personal** [TREBEP, art. 39.2]; la de **220** (censo mínimo de 50) tiene **Junta de Personal** [TREBEP, art. 39.3].
-2. **3 Delegados de Personal**: de 31 a 49 funcionarios corresponden 3 [TREBEP, art. 39.2].
+1. La unidad de **44** funcionarios (6 o más e inferior a 50) tiene **Delegados de Personal** (art. 39.2 TREBEP); la de **220** (censo mínimo de 50) tiene **Junta de Personal** (art. 39.3 TREBEP).
+2. **3 Delegados de Personal**: de 31 a 49 funcionarios corresponden 3 (art. 39.2 TREBEP).
 3. Dos del artículo 40.1 TREBEP: **recibir información** sobre la política de personal y **emitir informe**, a solicitud de la Administración, sobre el traslado total o parcial de las instalaciones e implantación o revisión de sus sistemas de organización y métodos de trabajo; también ser informados de las sanciones por faltas muy graves y vigilar el cumplimiento de las normas en materia de prevención de riesgos laborales.
 4. Dos del artículo 41 TREBEP: **no ser trasladados ni sancionados** por causas relacionadas con el ejercicio de su mandato y disponer de un **crédito de horas mensuales** retribuidas (acumulable entre los miembros de la misma candidatura, previa comunicación); además, el deber de sigilo.
 
@@ -140,9 +140,9 @@
 
 **Solución orientativa**:
 
-1. **Sí**: están legitimados los empleados públicos en número **no inferior al 40 por 100** del colectivo convocado (aquí, el 45 %). También lo están las organizaciones sindicales, directamente o a través de los Delegados Sindicales, los Delegados de Personal, las Juntas de Personal y los Comités de Empresa [TREBEP, art. 46.1].
-2. Las reuniones en el centro de trabajo se autorizan **fuera de las horas de trabajo**, salvo acuerdo entre el órgano competente en materia de personal y quienes estén legitimados para convocarlas; la reunión no perjudicará la prestación de los servicios y los **convocantes** son responsables de su normal desarrollo [TREBEP, art. 46.2].
-3. Con carácter general, los Delegados de Prevención se designan **por y entre los representantes del personal** [LPRL, art. 35.2], aunque en las Administraciones públicas pueden establecerse otros sistemas de designación [LPRL, art. 35.4]. En el Ayuntamiento **no se designan necesariamente** entre los representantes del personal: los designan los órganos de representación unitaria, de entre sus miembros, **o las organizaciones sindicales** con presencia en ellos; en total, **83** Delegados de Prevención y un **Comité de Seguridad y Salud único** [AC1922, art. 48.4 y 48.2].
-4. **Sí**: las disposiciones de carácter laboral de la LPRL tienen el carácter de Derecho necesario mínimo indisponible, **pudiendo ser mejoradas y desarrolladas en los convenios colectivos** [LPRL, art. 2.2]. Ejemplo: el Acuerdo-Convenio reconoce a cada Delegado de Prevención un **crédito de 40 h/mes**, complementario y adicional al que pudiera corresponderle como representante unitario o sindical [AC1922, art. 48.6].
+1. **Sí**: están legitimados los empleados públicos en número **no inferior al 40 por 100** del colectivo convocado (aquí, el 45 %). También lo están las organizaciones sindicales, directamente o a través de los Delegados Sindicales, los Delegados de Personal, las Juntas de Personal y los Comités de Empresa (art. 46.1 TREBEP).
+2. Las reuniones en el centro de trabajo se autorizan **fuera de las horas de trabajo**, salvo acuerdo entre el órgano competente en materia de personal y quienes estén legitimados para convocarlas; la reunión no perjudicará la prestación de los servicios y los **convocantes** son responsables de su normal desarrollo (art. 46.2 TREBEP).
+3. Con carácter general, los Delegados de Prevención se designan **por y entre los representantes del personal** (art. 35.2 LPRL), aunque en las Administraciones públicas pueden establecerse otros sistemas de designación (art. 35.4 LPRL). En el Ayuntamiento **no se designan necesariamente** entre los representantes del personal: los designan los órganos de representación unitaria, de entre sus miembros, **o las organizaciones sindicales** con presencia en ellos; en total, **83** Delegados de Prevención y un **Comité de Seguridad y Salud único** (art. 48.4 y 48.2 Acuerdo-Convenio).
+4. **Sí**: las disposiciones de carácter laboral de la LPRL tienen el carácter de Derecho necesario mínimo indisponible, **pudiendo ser mejoradas y desarrolladas en los convenios colectivos** (art. 2.2 LPRL). Ejemplo: el Acuerdo-Convenio reconoce a cada Delegado de Prevención un **crédito de 40 h/mes**, complementario y adicional al que pudiera corresponderle como representante unitario o sindical (art. 48.6 Acuerdo-Convenio).
 
 **Criterios de evaluación**: aplicar el 40 % y los demás legitimados del artículo 46.1; el horario de las reuniones del artículo 46.2; explicar la designación de los Delegados de Prevención municipales (art. 48.4 AC); fundamentar la mejora convencional en el artículo 2.2 LPRL con un ejemplo concreto.

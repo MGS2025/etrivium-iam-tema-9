@@ -4,6 +4,16 @@
 
 ---
 
+## v1.5 — 2026-10-06 — Respuestas de la revisión jurídica
+
+**Motivo**: respuestas a las dudas planteadas a la revisión jurídica (06-10-2026).
+
+### Cambios
+
+- **Citas entre corchetes al final del párrafo** (`[CE, art. 14]`) pasan a paréntesis con la ley detrás (`(art. 14 CE)`), el formato de las demás citas de inciso, por decisión de la revisión jurídica (06-10-2026). Se actualiza también la explicación de la convención de citas en Fuentes. Las claves bibliográficas de la tabla de fuentes no cambian.
+
+---
+
 ## v1.4 — 2026-10-06 — Revisión de diagramas
 
 **Motivo**: barrido de los diagramas de los 40 temas tras la revisión jurídica y de normas.

@@ -19,7 +19,7 @@
 
 - [ ] La fuente nuclear es la **LPRL (Ley 31/1995)** en su versión consolidada.
 - [ ] Los datos del **Acuerdo-Convenio 2019-2022** se han verificado en fuente oficial (transparencia.madrid.es, art. 48).
-- [ ] Cada afirmación que reproduce el articulado está referenciada (`[LPRL, art. X]`, `[TREBEP, art. X]`, `[ET, art. X]`, `[AC1922, art. X]`).
+- [ ] Cada afirmación que reproduce el articulado está referenciada (`(art. X LPRL)`, `(art. X TREBEP)`, `(art. X ET)`, `(art. X Acuerdo-Convenio)`).
 - [ ] Cada pregunta del banco y de los casos puede reconducirse a un artículo concreto.
 
 ## 2. Estructura del contenido
@@ -40,9 +40,9 @@
 - [ ] Garantías: **art. 68 ET** (remisión del art. 37.1); **sigilo profesional** (art. 37.3). El tiempo de reuniones del Comité y visitas de acompañamiento **no se imputa** al crédito (art. 37.1).
 - [ ] Comité de Seguridad y Salud: **paritario y colegiado** (art. 38.1); umbral **50** (art. 38.2); **trimestral** (art. 38.3); competencias del art. 39.
 - [ ] Servicios de prevención: asunción por el empresario, trabajador designado, propio, ajeno (art. 30 LPRL; art. 10 RSP) y mancomunado (art. 21 RSP).
-- [ ] **Acuerdo-Convenio**: **83 Delegados de Prevención** (Ayto 56, Empleo 4, Tributaria 7, **IAM 6**, Madrid Salud 7, Actividades 3); **Comité único 15+15**; **crédito 40 h/mes** adicional [art. 48]. Plan de PRL: **Acuerdo de 26/11/2020** (BOAM 8783).
-- [ ] **TREBEP**: Delegados de Personal (**1** hasta 30, **3** de 31 a 49) y Junta de Personal (≥50) [art. 39]; garantías [art. 41]; reunión: legitimación del **40 %** y reuniones fuera de las horas de trabajo salvo acuerdo [art. 46].
-- [ ] **ET**: Delegados de Personal (más de 10 y menos de 50; de 6 a 10 si lo deciden por mayoría) y Comité de Empresa (≥50) [arts. 62-63].
+- [ ] **Acuerdo-Convenio**: **83 Delegados de Prevención** (Ayto 56, Empleo 4, Tributaria 7, **IAM 6**, Madrid Salud 7, Actividades 3); **Comité único 15+15**; **crédito 40 h/mes** adicional (art. 48). Plan de PRL: **Acuerdo de 26/11/2020** (BOAM 8783).
+- [ ] **TREBEP**: Delegados de Personal (**1** hasta 30, **3** de 31 a 49) y Junta de Personal (≥50) (art. 39); garantías (art. 41); reunión: legitimación del **40 %** y reuniones fuera de las horas de trabajo salvo acuerdo (art. 46).
+- [ ] **ET**: Delegados de Personal (más de 10 y menos de 50; de 6 a 10 si lo deciden por mayoría) y Comité de Empresa (≥50) (arts. 62-63).
 
 ## 4. Diagramas SVG
 
